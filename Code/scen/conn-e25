@@ -1,0 +1,73 @@
+proc setupUDP {i src dst stime etime} {
+global ns_ null rate psize
+	set udp($i) [new Agent/UDP]
+	$ns_ attach-agent $src $udp($i)
+	set null($i) [new Agent/LossMonitor]
+	$ns_ attach-agent $dst $null($i)
+	set cbr($i) [new Application/Traffic/Exponential]
+	$cbr($i) set packetSize_ $psize
+	$udp($i) set rate_ $rate
+	$cbr($i) set rate_ $rate
+	$cbr($i) attach-agent $udp($i)
+	$ns_ connect $udp($i) $null($i)
+	$ns_ at $stime "$cbr($i) start"
+	$ns_ at $etime "$cbr($i) stop"
+	return $null($i)
+}
+
+array set num { a 7 b 9 c 13 d 17 }
+foreach n [array names num] {
+$ns_ at 1.0 "$node_($num($n)) add-mark m1 orange hexagon"
+$ns_ at 1.0 "$node_($num($n)) label CH"
+}
+
+######################################################Connection1
+set a0 [setupUDP 1 $node_(3) $node_(18) 1.0 10.0 ]
+
+
+$ns_ at 1.0 "$node_(3) add-mark m1 OrangeRed circle"
+$ns_ at 1.0 "$node_(3) label SRC"
+$ns_ at 1.0 "$node_(18) add-mark m1 OrangeRed circle"
+$ns_ at 1.0 "$node_(18) label DST"
+$ns_ at 10.01 "$node_(3) label \" \""
+$ns_ at 10.01 "$node_(3) delete-mark m1"
+$ns_ at 10.01 "$node_(18) label \" \""
+$ns_ at 10.01 "$node_(18) delete-mark m1"
+$ns_ at 10.01 "$node_(9) label \" \""
+$ns_ at 10.01 "$node_(9) delete-mark m1"
+$ns_ at 10.01 "$node_(16) add-mark m1 orange hexagon"
+$ns_ at 10.01 "$node_(16) label CH"
+
+######################################################Connection2
+set a1 [setupUDP 2 $node_(22) $node_(23) 13.0 22.0 ]
+
+$ns_ at 13.0 "$node_(22) add-mark m1 OrangeRed circle"
+$ns_ at 13.0 "$node_(22) label SRC"
+$ns_ at 13.0 "$node_(23) add-mark m1 OrangeRed circle"
+$ns_ at 13.0 "$node_(23) label DST"
+$ns_ at 22.01 "$node_(22) label \" \""
+$ns_ at 22.01 "$node_(22) delete-mark m1"
+$ns_ at 22.01 "$node_(23) label \" \""
+$ns_ at 22.01 "$node_(23) delete-mark m1"
+$ns_ at 22.01 "$node_(17) label \" \""
+$ns_ at 22.01 "$node_(17) delete-mark m1"
+$ns_ at 22.01 "$node_(12) add-mark m1 orange hexagon"
+$ns_ at 22.01 "$node_(12) label CH"
+
+######################################################Connection3
+set a2 [setupUDP 2 $node_(18) $node_(6) 25.0 35.0 ]
+
+$ns_ at 25.0 "$node_(18) add-mark m1 OrangeRed circle"
+$ns_ at 25.0 "$node_(18) label SRC"
+$ns_ at 25.0 "$node_(6) add-mark m1 OrangeRed circle"
+$ns_ at 25.0 "$node_(6) label DST"
+$ns_ at 35.01 "$node_(18) label \" \""
+$ns_ at 35.01 "$node_(18) delete-mark m1"
+$ns_ at 35.01 "$node_(6) label \" \""
+$ns_ at 35.01 "$node_(6) delete-mark m1"
+$ns_ at 22.01 "$node_(7) label \" \""
+$ns_ at 22.01 "$node_(7) delete-mark m1"
+$ns_ at 22.01 "$node_(1) add-mark m1 orange hexagon"
+$ns_ at 22.01 "$node_(1) label CH"
+
+

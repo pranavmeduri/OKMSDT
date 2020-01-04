@@ -1,0 +1,1446 @@
+#
+# nodes: 25, pause: 5.00, max speed: 7.00  max x = 1000.00, max y: 1000.00
+#
+$node_(0) set X_ 943.368442280420
+$node_(0) set Y_ 193.410243918880
+$node_(0) set Z_ 0.000000000000
+$node_(1) set X_ 645.969716167425
+$node_(1) set Y_ 813.020198941632
+$node_(1) set Z_ 0.000000000000
+$node_(2) set X_ 330.484333253320
+$node_(2) set Y_ 150.189370444587
+$node_(2) set Z_ 0.000000000000
+$node_(3) set X_ 232.749195399865
+$node_(3) set Y_ 815.727291965513
+$node_(3) set Z_ 0.000000000000
+$node_(4) set X_ 328.596788003732
+$node_(4) set Y_ 926.216802476545
+$node_(4) set Z_ 0.000000000000
+$node_(5) set X_ 925.800044937458
+$node_(5) set Y_ 921.356085136960
+$node_(5) set Z_ 0.000000000000
+$node_(6) set X_ 231.723714249887
+$node_(6) set Y_ 480.465603393813
+$node_(6) set Z_ 0.000000000000
+$node_(7) set X_ 885.396754734699
+$node_(7) set Y_ 863.257611526830
+$node_(7) set Z_ 0.000000000000
+$node_(8) set X_ 770.677697231676
+$node_(8) set Y_ 780.058056438172
+$node_(8) set Z_ 0.000000000000
+$node_(9) set X_ 435.755248361435
+$node_(9) set Y_ 738.459597180948
+$node_(9) set Z_ 0.000000000000
+$node_(10) set X_ 290.450475298579
+$node_(10) set Y_ 601.138600862118
+$node_(10) set Z_ 0.000000000000
+$node_(11) set X_ 336.465222899954
+$node_(11) set Y_ 971.001577964488
+$node_(11) set Z_ 0.000000000000
+$node_(12) set X_ 623.521710537767
+$node_(12) set Y_ 529.389561372521
+$node_(12) set Z_ 0.000000000000
+$node_(13) set X_ 450.358457583612
+$node_(13) set Y_ 174.597007294561
+$node_(13) set Z_ 0.000000000000
+$node_(14) set X_ 451.901754550951
+$node_(14) set Y_ 112.789138732480
+$node_(14) set Z_ 0.000000000000
+$node_(15) set X_ 647.054776816493
+$node_(15) set Y_ 49.634528832514
+$node_(15) set Z_ 0.000000000000
+$node_(16) set X_ 207.526132084430
+$node_(16) set Y_ 891.702127079770
+$node_(16) set Z_ 0.000000000000
+$node_(17) set X_ 837.650620724400
+$node_(17) set Y_ 393.983258097118
+$node_(17) set Z_ 0.000000000000
+$node_(18) set X_ 676.619187742435
+$node_(18) set Y_ 938.688987322284
+$node_(18) set Z_ 0.000000000000
+$node_(19) set X_ 545.810758361565
+$node_(19) set Y_ 441.416267022202
+$node_(19) set Z_ 0.000000000000
+$node_(20) set X_ 883.200233701191
+$node_(20) set Y_ 946.328599396655
+$node_(20) set Z_ 0.000000000000
+$node_(21) set X_ 944.770899060032
+$node_(21) set Y_ 764.501340071597
+$node_(21) set Z_ 0.000000000000
+$node_(22) set X_ 974.023261509656
+$node_(22) set Y_ 408.957056870032
+$node_(22) set Z_ 0.000000000000
+$node_(23) set X_ 341.255177418968
+$node_(23) set Y_ 475.767183314002
+$node_(23) set Z_ 0.000000000000
+$node_(24) set X_ 219.050380491754
+$node_(24) set Y_ 579.745119211277
+$node_(24) set Z_ 0.000000000000
+$god_ set-dist 0 1 16777215
+$god_ set-dist 0 2 16777215
+$god_ set-dist 0 3 16777215
+$god_ set-dist 0 4 16777215
+$god_ set-dist 0 5 16777215
+$god_ set-dist 0 6 16777215
+$god_ set-dist 0 7 16777215
+$god_ set-dist 0 8 16777215
+$god_ set-dist 0 9 16777215
+$god_ set-dist 0 10 16777215
+$god_ set-dist 0 11 16777215
+$god_ set-dist 0 12 16777215
+$god_ set-dist 0 13 16777215
+$god_ set-dist 0 14 16777215
+$god_ set-dist 0 15 16777215
+$god_ set-dist 0 16 16777215
+$god_ set-dist 0 17 1
+$god_ set-dist 0 18 16777215
+$god_ set-dist 0 19 16777215
+$god_ set-dist 0 20 16777215
+$god_ set-dist 0 21 16777215
+$god_ set-dist 0 22 1
+$god_ set-dist 0 23 16777215
+$god_ set-dist 0 24 16777215
+$god_ set-dist 1 2 16777215
+$god_ set-dist 1 3 2
+$god_ set-dist 1 4 2
+$god_ set-dist 1 5 2
+$god_ set-dist 1 6 3
+$god_ set-dist 1 7 1
+$god_ set-dist 1 8 1
+$god_ set-dist 1 9 1
+$god_ set-dist 1 10 2
+$god_ set-dist 1 11 3
+$god_ set-dist 1 12 5
+$god_ set-dist 1 13 16777215
+$god_ set-dist 1 14 16777215
+$god_ set-dist 1 15 16777215
+$god_ set-dist 1 16 3
+$god_ set-dist 1 17 16777215
+$god_ set-dist 1 18 1
+$god_ set-dist 1 19 4
+$god_ set-dist 1 20 2
+$god_ set-dist 1 21 2
+$god_ set-dist 1 22 16777215
+$god_ set-dist 1 23 3
+$god_ set-dist 1 24 3
+$god_ set-dist 2 3 16777215
+$god_ set-dist 2 4 16777215
+$god_ set-dist 2 5 16777215
+$god_ set-dist 2 6 16777215
+$god_ set-dist 2 7 16777215
+$god_ set-dist 2 8 16777215
+$god_ set-dist 2 9 16777215
+$god_ set-dist 2 10 16777215
+$god_ set-dist 2 11 16777215
+$god_ set-dist 2 12 16777215
+$god_ set-dist 2 13 1
+$god_ set-dist 2 14 1
+$god_ set-dist 2 15 1
+$god_ set-dist 2 16 16777215
+$god_ set-dist 2 17 16777215
+$god_ set-dist 2 18 16777215
+$god_ set-dist 2 19 16777215
+$god_ set-dist 2 20 16777215
+$god_ set-dist 2 21 16777215
+$god_ set-dist 2 22 16777215
+$god_ set-dist 2 23 16777215
+$god_ set-dist 2 24 16777215
+$god_ set-dist 3 4 4
+$god_ set-dist 3 5 4
+$god_ set-dist 3 6 1
+$god_ set-dist 3 7 3
+$god_ set-dist 3 8 3
+$god_ set-dist 3 9 1
+$god_ set-dist 3 10 1
+$god_ set-dist 3 11 1
+$god_ set-dist 3 12 4
+$god_ set-dist 3 13 16777215
+$god_ set-dist 3 14 16777215
+$god_ set-dist 3 15 16777215
+$god_ set-dist 3 16 1
+$god_ set-dist 3 17 16777215
+$god_ set-dist 3 18 3
+$god_ set-dist 3 19 3
+$god_ set-dist 3 20 4
+$god_ set-dist 3 21 4
+$god_ set-dist 3 22 16777215
+$god_ set-dist 3 23 2
+$god_ set-dist 3 24 1
+$god_ set-dist 4 5 1
+$god_ set-dist 4 6 5
+$god_ set-dist 4 7 1
+$god_ set-dist 4 8 1
+$god_ set-dist 4 9 3
+$god_ set-dist 4 10 4
+$god_ set-dist 4 11 5
+$god_ set-dist 4 12 7
+$god_ set-dist 4 13 16777215
+$god_ set-dist 4 14 16777215
+$god_ set-dist 4 15 16777215
+$god_ set-dist 4 16 5
+$god_ set-dist 4 17 16777215
+$god_ set-dist 4 18 2
+$god_ set-dist 4 19 6
+$god_ set-dist 4 20 1
+$god_ set-dist 4 21 1
+$god_ set-dist 4 22 16777215
+$god_ set-dist 4 23 5
+$god_ set-dist 4 24 5
+$god_ set-dist 5 6 5
+$god_ set-dist 5 7 1
+$god_ set-dist 5 8 1
+$god_ set-dist 5 9 3
+$god_ set-dist 5 10 4
+$god_ set-dist 5 11 5
+$god_ set-dist 5 12 7
+$god_ set-dist 5 13 16777215
+$god_ set-dist 5 14 16777215
+$god_ set-dist 5 15 16777215
+$god_ set-dist 5 16 5
+$god_ set-dist 5 17 16777215
+$god_ set-dist 5 18 1
+$god_ set-dist 5 19 6
+$god_ set-dist 5 20 1
+$god_ set-dist 5 21 1
+$god_ set-dist 5 22 16777215
+$god_ set-dist 5 23 5
+$god_ set-dist 5 24 5
+$god_ set-dist 6 7 4
+$god_ set-dist 6 8 4
+$god_ set-dist 6 9 2
+$god_ set-dist 6 10 1
+$god_ set-dist 6 11 2
+$god_ set-dist 6 12 3
+$god_ set-dist 6 13 16777215
+$god_ set-dist 6 14 16777215
+$god_ set-dist 6 15 16777215
+$god_ set-dist 6 16 2
+$god_ set-dist 6 17 16777215
+$god_ set-dist 6 18 4
+$god_ set-dist 6 19 2
+$god_ set-dist 6 20 5
+$god_ set-dist 6 21 5
+$god_ set-dist 6 22 16777215
+$god_ set-dist 6 23 1
+$god_ set-dist 6 24 1
+$god_ set-dist 7 8 1
+$god_ set-dist 7 9 2
+$god_ set-dist 7 10 3
+$god_ set-dist 7 11 4
+$god_ set-dist 7 12 6
+$god_ set-dist 7 13 16777215
+$god_ set-dist 7 14 16777215
+$god_ set-dist 7 15 16777215
+$god_ set-dist 7 16 4
+$god_ set-dist 7 17 16777215
+$god_ set-dist 7 18 1
+$god_ set-dist 7 19 5
+$god_ set-dist 7 20 1
+$god_ set-dist 7 21 1
+$god_ set-dist 7 22 16777215
+$god_ set-dist 7 23 4
+$god_ set-dist 7 24 4
+$god_ set-dist 8 9 2
+$god_ set-dist 8 10 3
+$god_ set-dist 8 11 4
+$god_ set-dist 8 12 6
+$god_ set-dist 8 13 16777215
+$god_ set-dist 8 14 16777215
+$god_ set-dist 8 15 16777215
+$god_ set-dist 8 16 4
+$god_ set-dist 8 17 16777215
+$god_ set-dist 8 18 1
+$god_ set-dist 8 19 5
+$god_ set-dist 8 20 1
+$god_ set-dist 8 21 1
+$god_ set-dist 8 22 16777215
+$god_ set-dist 8 23 4
+$god_ set-dist 8 24 4
+$god_ set-dist 9 10 1
+$god_ set-dist 9 11 2
+$god_ set-dist 9 12 4
+$god_ set-dist 9 13 16777215
+$god_ set-dist 9 14 16777215
+$god_ set-dist 9 15 16777215
+$god_ set-dist 9 16 2
+$god_ set-dist 9 17 16777215
+$god_ set-dist 9 18 2
+$god_ set-dist 9 19 3
+$god_ set-dist 9 20 3
+$god_ set-dist 9 21 3
+$god_ set-dist 9 22 16777215
+$god_ set-dist 9 23 2
+$god_ set-dist 9 24 2
+$god_ set-dist 10 11 2
+$god_ set-dist 10 12 3
+$god_ set-dist 10 13 16777215
+$god_ set-dist 10 14 16777215
+$god_ set-dist 10 15 16777215
+$god_ set-dist 10 16 2
+$god_ set-dist 10 17 16777215
+$god_ set-dist 10 18 3
+$god_ set-dist 10 19 2
+$god_ set-dist 10 20 4
+$god_ set-dist 10 21 4
+$god_ set-dist 10 22 16777215
+$god_ set-dist 10 23 1
+$god_ set-dist 10 24 1
+$god_ set-dist 11 12 5
+$god_ set-dist 11 13 16777215
+$god_ set-dist 11 14 16777215
+$god_ set-dist 11 15 16777215
+$god_ set-dist 11 16 1
+$god_ set-dist 11 17 16777215
+$god_ set-dist 11 18 4
+$god_ set-dist 11 19 4
+$god_ set-dist 11 20 5
+$god_ set-dist 11 21 5
+$god_ set-dist 11 22 16777215
+$god_ set-dist 11 23 3
+$god_ set-dist 11 24 2
+$god_ set-dist 12 13 16777215
+$god_ set-dist 12 14 16777215
+$god_ set-dist 12 15 16777215
+$god_ set-dist 12 16 5
+$god_ set-dist 12 17 16777215
+$god_ set-dist 12 18 6
+$god_ set-dist 12 19 1
+$god_ set-dist 12 20 7
+$god_ set-dist 12 21 7
+$god_ set-dist 12 22 16777215
+$god_ set-dist 12 23 2
+$god_ set-dist 12 24 3
+$god_ set-dist 13 14 1
+$god_ set-dist 13 15 1
+$god_ set-dist 13 16 16777215
+$god_ set-dist 13 17 16777215
+$god_ set-dist 13 18 16777215
+$god_ set-dist 13 19 16777215
+$god_ set-dist 13 20 16777215
+$god_ set-dist 13 21 16777215
+$god_ set-dist 13 22 16777215
+$god_ set-dist 13 23 16777215
+$god_ set-dist 13 24 16777215
+$god_ set-dist 14 15 1
+$god_ set-dist 14 16 16777215
+$god_ set-dist 14 17 16777215
+$god_ set-dist 14 18 16777215
+$god_ set-dist 14 19 16777215
+$god_ set-dist 14 20 16777215
+$god_ set-dist 14 21 16777215
+$god_ set-dist 14 22 16777215
+$god_ set-dist 14 23 16777215
+$god_ set-dist 14 24 16777215
+$god_ set-dist 15 16 16777215
+$god_ set-dist 15 17 16777215
+$god_ set-dist 15 18 16777215
+$god_ set-dist 15 19 16777215
+$god_ set-dist 15 20 16777215
+$god_ set-dist 15 21 16777215
+$god_ set-dist 15 22 16777215
+$god_ set-dist 15 23 16777215
+$god_ set-dist 15 24 16777215
+$god_ set-dist 16 17 16777215
+$god_ set-dist 16 18 4
+$god_ set-dist 16 19 4
+$god_ set-dist 16 20 5
+$god_ set-dist 16 21 5
+$god_ set-dist 16 22 16777215
+$god_ set-dist 16 23 3
+$god_ set-dist 16 24 2
+$god_ set-dist 17 18 16777215
+$god_ set-dist 17 19 16777215
+$god_ set-dist 17 20 16777215
+$god_ set-dist 17 21 16777215
+$god_ set-dist 17 22 1
+$god_ set-dist 17 23 16777215
+$god_ set-dist 17 24 16777215
+$god_ set-dist 18 19 5
+$god_ set-dist 18 20 1
+$god_ set-dist 18 21 2
+$god_ set-dist 18 22 16777215
+$god_ set-dist 18 23 4
+$god_ set-dist 18 24 4
+$god_ set-dist 19 20 6
+$god_ set-dist 19 21 6
+$god_ set-dist 19 22 16777215
+$god_ set-dist 19 23 1
+$god_ set-dist 19 24 2
+$god_ set-dist 20 21 1
+$god_ set-dist 20 22 16777215
+$god_ set-dist 20 23 5
+$god_ set-dist 20 24 5
+$god_ set-dist 21 22 16777215
+$god_ set-dist 21 23 5
+$god_ set-dist 21 24 5
+$god_ set-dist 22 23 16777215
+$god_ set-dist 22 24 16777215
+$god_ set-dist 23 24 1
+$ns_ at 1.000000000000 "$node_(0) setdest 776.219098217893 914.384436705492 0.414599642794"
+$ns_ at 1.000000000000 "$node_(1) setdest 453.742401861730 48.548492623049 6.681608910171"
+$ns_ at 1.000000000000 "$node_(2) setdest 542.994168345557 102.987865494245 6.419388171608"
+$ns_ at 1.000000000000 "$node_(3) setdest 951.000843124092 471.171230272279 6.824073229009"
+$ns_ at 1.000000000000 "$node_(4) setdest 599.823714481588 237.169824172876 0.792645587447"
+$ns_ at 1.000000000000 "$node_(5) setdest 142.055561824680 527.827713390811 1.402655993236"
+$ns_ at 1.000000000000 "$node_(6) setdest 777.039937530160 710.230758706910 5.938535519534"
+$ns_ at 1.000000000000 "$node_(7) setdest 423.783152539165 523.445101670972 3.792769738642"
+$ns_ at 1.000000000000 "$node_(8) setdest 440.142960003694 482.729172533383 1.604422377619"
+$ns_ at 1.000000000000 "$node_(9) setdest 218.128867071775 91.869068835608 0.304080010983"
+$ns_ at 1.000000000000 "$node_(10) setdest 96.106408669247 260.410589273503 5.045419055258"
+$ns_ at 1.000000000000 "$node_(11) setdest 51.152313149233 716.927144506788 2.761628531128"
+$ns_ at 1.000000000000 "$node_(12) setdest 670.103589349494 431.026791400355 1.870984136899"
+$ns_ at 1.000000000000 "$node_(13) setdest 232.912932618759 567.658730085619 4.481939367938"
+$ns_ at 1.000000000000 "$node_(14) setdest 136.422986686676 861.137363949569 0.949736650494"
+$ns_ at 1.000000000000 "$node_(15) setdest 317.697956357936 549.552789650512 2.336153005749"
+$ns_ at 1.000000000000 "$node_(16) setdest 103.367098649801 290.827098888280 6.517358912983"
+$ns_ at 1.000000000000 "$node_(17) setdest 178.750898762834 266.355665510596 4.477693309994"
+$ns_ at 1.000000000000 "$node_(18) setdest 941.637861931184 107.546312778888 3.716152791071"
+$ns_ at 1.000000000000 "$node_(19) setdest 482.851832838784 290.754949794056 5.029090126259"
+$ns_ at 1.000000000000 "$node_(20) setdest 845.393784693240 533.340089243317 5.928162698753"
+$ns_ at 1.000000000000 "$node_(21) setdest 518.640457866644 790.175824752360 3.395611197227"
+$ns_ at 1.000000000000 "$node_(22) setdest 862.484972348772 784.931030914167 2.350860895163"
+$ns_ at 1.000000000000 "$node_(23) setdest 417.009583380884 680.068252423303 6.349833572111"
+$ns_ at 1.000000000000 "$node_(24) setdest 950.407443494850 497.903661076661 1.867825100038"
+$ns_ at 5.692796653062 "$god_ set-dist 0 1 7"
+$ns_ at 5.692796653062 "$god_ set-dist 0 3 6"
+$ns_ at 5.692796653062 "$god_ set-dist 0 4 9"
+$ns_ at 5.692796653062 "$god_ set-dist 0 5 9"
+$ns_ at 5.692796653062 "$god_ set-dist 0 6 5"
+$ns_ at 5.692796653062 "$god_ set-dist 0 7 8"
+$ns_ at 5.692796653062 "$god_ set-dist 0 8 8"
+$ns_ at 5.692796653062 "$god_ set-dist 0 9 6"
+$ns_ at 5.692796653062 "$god_ set-dist 0 10 5"
+$ns_ at 5.692796653062 "$god_ set-dist 0 11 7"
+$ns_ at 5.692796653062 "$god_ set-dist 0 12 2"
+$ns_ at 5.692796653062 "$god_ set-dist 0 16 7"
+$ns_ at 5.692796653062 "$god_ set-dist 0 18 8"
+$ns_ at 5.692796653062 "$god_ set-dist 0 19 3"
+$ns_ at 5.692796653062 "$god_ set-dist 0 20 9"
+$ns_ at 5.692796653062 "$god_ set-dist 0 21 9"
+$ns_ at 5.692796653062 "$god_ set-dist 0 23 4"
+$ns_ at 5.692796653062 "$god_ set-dist 0 24 5"
+$ns_ at 5.692796653062 "$god_ set-dist 1 17 6"
+$ns_ at 5.692796653062 "$god_ set-dist 1 22 7"
+$ns_ at 5.692796653062 "$god_ set-dist 3 17 5"
+$ns_ at 5.692796653062 "$god_ set-dist 3 22 6"
+$ns_ at 5.692796653062 "$god_ set-dist 4 17 8"
+$ns_ at 5.692796653062 "$god_ set-dist 4 22 9"
+$ns_ at 5.692796653062 "$god_ set-dist 5 17 8"
+$ns_ at 5.692796653062 "$god_ set-dist 5 22 9"
+$ns_ at 5.692796653062 "$god_ set-dist 6 17 4"
+$ns_ at 5.692796653062 "$god_ set-dist 6 22 5"
+$ns_ at 5.692796653062 "$god_ set-dist 7 17 7"
+$ns_ at 5.692796653062 "$god_ set-dist 7 22 8"
+$ns_ at 5.692796653062 "$god_ set-dist 8 17 7"
+$ns_ at 5.692796653062 "$god_ set-dist 8 22 8"
+$ns_ at 5.692796653062 "$god_ set-dist 9 17 5"
+$ns_ at 5.692796653062 "$god_ set-dist 9 22 6"
+$ns_ at 5.692796653062 "$god_ set-dist 10 17 4"
+$ns_ at 5.692796653062 "$god_ set-dist 10 22 5"
+$ns_ at 5.692796653062 "$god_ set-dist 11 17 6"
+$ns_ at 5.692796653062 "$god_ set-dist 11 22 7"
+$ns_ at 5.692796653062 "$god_ set-dist 12 17 1"
+$ns_ at 5.692796653062 "$god_ set-dist 12 22 2"
+$ns_ at 5.692796653062 "$god_ set-dist 16 17 6"
+$ns_ at 5.692796653062 "$god_ set-dist 16 22 7"
+$ns_ at 5.692796653062 "$god_ set-dist 17 18 7"
+$ns_ at 5.692796653062 "$god_ set-dist 17 19 2"
+$ns_ at 5.692796653062 "$god_ set-dist 17 20 8"
+$ns_ at 5.692796653062 "$god_ set-dist 17 21 8"
+$ns_ at 5.692796653062 "$god_ set-dist 17 23 3"
+$ns_ at 5.692796653062 "$god_ set-dist 17 24 4"
+$ns_ at 5.692796653062 "$god_ set-dist 18 22 8"
+$ns_ at 5.692796653062 "$god_ set-dist 19 22 3"
+$ns_ at 5.692796653062 "$god_ set-dist 20 22 9"
+$ns_ at 5.692796653062 "$god_ set-dist 21 22 9"
+$ns_ at 5.692796653062 "$god_ set-dist 22 23 4"
+$ns_ at 5.692796653062 "$god_ set-dist 22 24 5"
+$ns_ at 6.425729933090 "$god_ set-dist 1 6 2"
+$ns_ at 6.425729933090 "$god_ set-dist 4 6 4"
+$ns_ at 6.425729933090 "$god_ set-dist 5 6 4"
+$ns_ at 6.425729933090 "$god_ set-dist 6 7 3"
+$ns_ at 6.425729933090 "$god_ set-dist 6 8 3"
+$ns_ at 6.425729933090 "$god_ set-dist 6 9 1"
+$ns_ at 6.425729933090 "$god_ set-dist 6 18 3"
+$ns_ at 6.425729933090 "$god_ set-dist 6 20 4"
+$ns_ at 6.425729933090 "$god_ set-dist 6 21 4"
+$ns_ at 6.441086820057 "$god_ set-dist 4 18 1"
+$ns_ at 9.223706202707 "$god_ set-dist 0 2 5"
+$ns_ at 9.223706202707 "$god_ set-dist 0 13 4"
+$ns_ at 9.223706202707 "$god_ set-dist 0 14 5"
+$ns_ at 9.223706202707 "$god_ set-dist 0 15 5"
+$ns_ at 9.223706202707 "$god_ set-dist 1 2 6"
+$ns_ at 9.223706202707 "$god_ set-dist 1 13 5"
+$ns_ at 9.223706202707 "$god_ set-dist 1 14 6"
+$ns_ at 9.223706202707 "$god_ set-dist 1 15 6"
+$ns_ at 9.223706202707 "$god_ set-dist 2 3 5"
+$ns_ at 9.223706202707 "$god_ set-dist 2 4 8"
+$ns_ at 9.223706202707 "$god_ set-dist 2 5 8"
+$ns_ at 9.223706202707 "$god_ set-dist 2 6 4"
+$ns_ at 9.223706202707 "$god_ set-dist 2 7 7"
+$ns_ at 9.223706202707 "$god_ set-dist 2 8 7"
+$ns_ at 9.223706202707 "$god_ set-dist 2 9 5"
+$ns_ at 9.223706202707 "$god_ set-dist 2 10 4"
+$ns_ at 9.223706202707 "$god_ set-dist 2 11 6"
+$ns_ at 9.223706202707 "$god_ set-dist 2 12 3"
+$ns_ at 9.223706202707 "$god_ set-dist 2 16 6"
+$ns_ at 9.223706202707 "$god_ set-dist 2 17 4"
+$ns_ at 9.223706202707 "$god_ set-dist 2 18 7"
+$ns_ at 9.223706202707 "$god_ set-dist 2 19 2"
+$ns_ at 9.223706202707 "$god_ set-dist 2 20 8"
+$ns_ at 9.223706202707 "$god_ set-dist 2 21 8"
+$ns_ at 9.223706202707 "$god_ set-dist 2 22 5"
+$ns_ at 9.223706202707 "$god_ set-dist 2 23 3"
+$ns_ at 9.223706202707 "$god_ set-dist 2 24 4"
+$ns_ at 9.223706202707 "$god_ set-dist 3 13 4"
+$ns_ at 9.223706202707 "$god_ set-dist 3 14 5"
+$ns_ at 9.223706202707 "$god_ set-dist 3 15 5"
+$ns_ at 9.223706202707 "$god_ set-dist 4 13 7"
+$ns_ at 9.223706202707 "$god_ set-dist 4 14 8"
+$ns_ at 9.223706202707 "$god_ set-dist 4 15 8"
+$ns_ at 9.223706202707 "$god_ set-dist 5 13 7"
+$ns_ at 9.223706202707 "$god_ set-dist 5 14 8"
+$ns_ at 9.223706202707 "$god_ set-dist 5 15 8"
+$ns_ at 9.223706202707 "$god_ set-dist 6 13 3"
+$ns_ at 9.223706202707 "$god_ set-dist 6 14 4"
+$ns_ at 9.223706202707 "$god_ set-dist 6 15 4"
+$ns_ at 9.223706202707 "$god_ set-dist 7 13 6"
+$ns_ at 9.223706202707 "$god_ set-dist 7 14 7"
+$ns_ at 9.223706202707 "$god_ set-dist 7 15 7"
+$ns_ at 9.223706202707 "$god_ set-dist 8 13 6"
+$ns_ at 9.223706202707 "$god_ set-dist 8 14 7"
+$ns_ at 9.223706202707 "$god_ set-dist 8 15 7"
+$ns_ at 9.223706202707 "$god_ set-dist 9 13 4"
+$ns_ at 9.223706202707 "$god_ set-dist 9 14 5"
+$ns_ at 9.223706202707 "$god_ set-dist 9 15 5"
+$ns_ at 9.223706202707 "$god_ set-dist 10 13 3"
+$ns_ at 9.223706202707 "$god_ set-dist 10 14 4"
+$ns_ at 9.223706202707 "$god_ set-dist 10 15 4"
+$ns_ at 9.223706202707 "$god_ set-dist 11 13 5"
+$ns_ at 9.223706202707 "$god_ set-dist 11 14 6"
+$ns_ at 9.223706202707 "$god_ set-dist 11 15 6"
+$ns_ at 9.223706202707 "$god_ set-dist 12 13 2"
+$ns_ at 9.223706202707 "$god_ set-dist 12 14 3"
+$ns_ at 9.223706202707 "$god_ set-dist 12 15 3"
+$ns_ at 9.223706202707 "$god_ set-dist 13 16 5"
+$ns_ at 9.223706202707 "$god_ set-dist 13 17 3"
+$ns_ at 9.223706202707 "$god_ set-dist 13 18 6"
+$ns_ at 9.223706202707 "$god_ set-dist 13 19 1"
+$ns_ at 9.223706202707 "$god_ set-dist 13 20 7"
+$ns_ at 9.223706202707 "$god_ set-dist 13 21 7"
+$ns_ at 9.223706202707 "$god_ set-dist 13 22 4"
+$ns_ at 9.223706202707 "$god_ set-dist 13 23 2"
+$ns_ at 9.223706202707 "$god_ set-dist 13 24 3"
+$ns_ at 9.223706202707 "$god_ set-dist 14 16 6"
+$ns_ at 9.223706202707 "$god_ set-dist 14 17 4"
+$ns_ at 9.223706202707 "$god_ set-dist 14 18 7"
+$ns_ at 9.223706202707 "$god_ set-dist 14 19 2"
+$ns_ at 9.223706202707 "$god_ set-dist 14 20 8"
+$ns_ at 9.223706202707 "$god_ set-dist 14 21 8"
+$ns_ at 9.223706202707 "$god_ set-dist 14 22 5"
+$ns_ at 9.223706202707 "$god_ set-dist 14 23 3"
+$ns_ at 9.223706202707 "$god_ set-dist 14 24 4"
+$ns_ at 9.223706202707 "$god_ set-dist 15 16 6"
+$ns_ at 9.223706202707 "$god_ set-dist 15 17 4"
+$ns_ at 9.223706202707 "$god_ set-dist 15 18 7"
+$ns_ at 9.223706202707 "$god_ set-dist 15 19 2"
+$ns_ at 9.223706202707 "$god_ set-dist 15 20 8"
+$ns_ at 9.223706202707 "$god_ set-dist 15 21 8"
+$ns_ at 9.223706202707 "$god_ set-dist 15 22 5"
+$ns_ at 9.223706202707 "$god_ set-dist 15 23 3"
+$ns_ at 9.223706202707 "$god_ set-dist 15 24 4"
+$ns_ at 9.384598013898 "$god_ set-dist 0 1 6"
+$ns_ at 9.384598013898 "$god_ set-dist 0 4 8"
+$ns_ at 9.384598013898 "$god_ set-dist 0 5 8"
+$ns_ at 9.384598013898 "$god_ set-dist 0 7 7"
+$ns_ at 9.384598013898 "$god_ set-dist 0 8 7"
+$ns_ at 9.384598013898 "$god_ set-dist 0 9 5"
+$ns_ at 9.384598013898 "$god_ set-dist 0 18 7"
+$ns_ at 9.384598013898 "$god_ set-dist 0 20 8"
+$ns_ at 9.384598013898 "$god_ set-dist 0 21 8"
+$ns_ at 9.384598013898 "$god_ set-dist 1 2 5"
+$ns_ at 9.384598013898 "$god_ set-dist 1 12 4"
+$ns_ at 9.384598013898 "$god_ set-dist 1 13 4"
+$ns_ at 9.384598013898 "$god_ set-dist 1 14 5"
+$ns_ at 9.384598013898 "$god_ set-dist 1 15 5"
+$ns_ at 9.384598013898 "$god_ set-dist 1 17 5"
+$ns_ at 9.384598013898 "$god_ set-dist 1 19 3"
+$ns_ at 9.384598013898 "$god_ set-dist 1 22 6"
+$ns_ at 9.384598013898 "$god_ set-dist 1 23 2"
+$ns_ at 9.384598013898 "$god_ set-dist 2 4 7"
+$ns_ at 9.384598013898 "$god_ set-dist 2 5 7"
+$ns_ at 9.384598013898 "$god_ set-dist 2 7 6"
+$ns_ at 9.384598013898 "$god_ set-dist 2 8 6"
+$ns_ at 9.384598013898 "$god_ set-dist 2 9 4"
+$ns_ at 9.384598013898 "$god_ set-dist 2 18 6"
+$ns_ at 9.384598013898 "$god_ set-dist 2 20 7"
+$ns_ at 9.384598013898 "$god_ set-dist 2 21 7"
+$ns_ at 9.384598013898 "$god_ set-dist 4 12 6"
+$ns_ at 9.384598013898 "$god_ set-dist 4 13 6"
+$ns_ at 9.384598013898 "$god_ set-dist 4 14 7"
+$ns_ at 9.384598013898 "$god_ set-dist 4 15 7"
+$ns_ at 9.384598013898 "$god_ set-dist 4 17 7"
+$ns_ at 9.384598013898 "$god_ set-dist 4 19 5"
+$ns_ at 9.384598013898 "$god_ set-dist 4 22 8"
+$ns_ at 9.384598013898 "$god_ set-dist 4 23 4"
+$ns_ at 9.384598013898 "$god_ set-dist 5 12 6"
+$ns_ at 9.384598013898 "$god_ set-dist 5 13 6"
+$ns_ at 9.384598013898 "$god_ set-dist 5 14 7"
+$ns_ at 9.384598013898 "$god_ set-dist 5 15 7"
+$ns_ at 9.384598013898 "$god_ set-dist 5 17 7"
+$ns_ at 9.384598013898 "$god_ set-dist 5 19 5"
+$ns_ at 9.384598013898 "$god_ set-dist 5 22 8"
+$ns_ at 9.384598013898 "$god_ set-dist 5 23 4"
+$ns_ at 9.384598013898 "$god_ set-dist 7 12 5"
+$ns_ at 9.384598013898 "$god_ set-dist 7 13 5"
+$ns_ at 9.384598013898 "$god_ set-dist 7 14 6"
+$ns_ at 9.384598013898 "$god_ set-dist 7 15 6"
+$ns_ at 9.384598013898 "$god_ set-dist 7 17 6"
+$ns_ at 9.384598013898 "$god_ set-dist 7 19 4"
+$ns_ at 9.384598013898 "$god_ set-dist 7 22 7"
+$ns_ at 9.384598013898 "$god_ set-dist 7 23 3"
+$ns_ at 9.384598013898 "$god_ set-dist 8 12 5"
+$ns_ at 9.384598013898 "$god_ set-dist 8 13 5"
+$ns_ at 9.384598013898 "$god_ set-dist 8 14 6"
+$ns_ at 9.384598013898 "$god_ set-dist 8 15 6"
+$ns_ at 9.384598013898 "$god_ set-dist 8 17 6"
+$ns_ at 9.384598013898 "$god_ set-dist 8 19 4"
+$ns_ at 9.384598013898 "$god_ set-dist 8 22 7"
+$ns_ at 9.384598013898 "$god_ set-dist 8 23 3"
+$ns_ at 9.384598013898 "$god_ set-dist 9 12 3"
+$ns_ at 9.384598013898 "$god_ set-dist 9 13 3"
+$ns_ at 9.384598013898 "$god_ set-dist 9 14 4"
+$ns_ at 9.384598013898 "$god_ set-dist 9 15 4"
+$ns_ at 9.384598013898 "$god_ set-dist 9 17 4"
+$ns_ at 9.384598013898 "$god_ set-dist 9 19 2"
+$ns_ at 9.384598013898 "$god_ set-dist 9 22 5"
+$ns_ at 9.384598013898 "$god_ set-dist 9 23 1"
+$ns_ at 9.384598013898 "$god_ set-dist 12 18 5"
+$ns_ at 9.384598013898 "$god_ set-dist 12 20 6"
+$ns_ at 9.384598013898 "$god_ set-dist 12 21 6"
+$ns_ at 9.384598013898 "$god_ set-dist 13 18 5"
+$ns_ at 9.384598013898 "$god_ set-dist 13 20 6"
+$ns_ at 9.384598013898 "$god_ set-dist 13 21 6"
+$ns_ at 9.384598013898 "$god_ set-dist 14 18 6"
+$ns_ at 9.384598013898 "$god_ set-dist 14 20 7"
+$ns_ at 9.384598013898 "$god_ set-dist 14 21 7"
+$ns_ at 9.384598013898 "$god_ set-dist 15 18 6"
+$ns_ at 9.384598013898 "$god_ set-dist 15 20 7"
+$ns_ at 9.384598013898 "$god_ set-dist 15 21 7"
+$ns_ at 9.384598013898 "$god_ set-dist 17 18 6"
+$ns_ at 9.384598013898 "$god_ set-dist 17 20 7"
+$ns_ at 9.384598013898 "$god_ set-dist 17 21 7"
+$ns_ at 9.384598013898 "$god_ set-dist 18 19 4"
+$ns_ at 9.384598013898 "$god_ set-dist 18 22 7"
+$ns_ at 9.384598013898 "$god_ set-dist 18 23 3"
+$ns_ at 9.384598013898 "$god_ set-dist 19 20 5"
+$ns_ at 9.384598013898 "$god_ set-dist 19 21 5"
+$ns_ at 9.384598013898 "$god_ set-dist 20 22 8"
+$ns_ at 9.384598013898 "$god_ set-dist 20 23 4"
+$ns_ at 9.384598013898 "$god_ set-dist 21 22 8"
+$ns_ at 9.384598013898 "$god_ set-dist 21 23 4"
+$ns_ at 9.782434061660 "$god_ set-dist 0 11 6"
+$ns_ at 9.782434061660 "$god_ set-dist 1 11 2"
+$ns_ at 9.782434061660 "$god_ set-dist 2 11 5"
+$ns_ at 9.782434061660 "$god_ set-dist 4 11 4"
+$ns_ at 9.782434061660 "$god_ set-dist 5 11 4"
+$ns_ at 9.782434061660 "$god_ set-dist 7 11 3"
+$ns_ at 9.782434061660 "$god_ set-dist 8 11 3"
+$ns_ at 9.782434061660 "$god_ set-dist 9 11 1"
+$ns_ at 9.782434061660 "$god_ set-dist 11 12 4"
+$ns_ at 9.782434061660 "$god_ set-dist 11 13 4"
+$ns_ at 9.782434061660 "$god_ set-dist 11 14 5"
+$ns_ at 9.782434061660 "$god_ set-dist 11 15 5"
+$ns_ at 9.782434061660 "$god_ set-dist 11 17 5"
+$ns_ at 9.782434061660 "$god_ set-dist 11 18 3"
+$ns_ at 9.782434061660 "$god_ set-dist 11 19 3"
+$ns_ at 9.782434061660 "$god_ set-dist 11 20 4"
+$ns_ at 9.782434061660 "$god_ set-dist 11 21 4"
+$ns_ at 9.782434061660 "$god_ set-dist 11 22 6"
+$ns_ at 9.782434061660 "$god_ set-dist 11 23 2"
+$ns_ at 12.034529502021 "$god_ set-dist 0 1 3"
+$ns_ at 12.034529502021 "$god_ set-dist 0 3 5"
+$ns_ at 12.034529502021 "$god_ set-dist 0 4 5"
+$ns_ at 12.034529502021 "$god_ set-dist 0 5 5"
+$ns_ at 12.034529502021 "$god_ set-dist 0 7 4"
+$ns_ at 12.034529502021 "$god_ set-dist 0 8 4"
+$ns_ at 12.034529502021 "$god_ set-dist 0 9 4"
+$ns_ at 12.034529502021 "$god_ set-dist 0 11 5"
+$ns_ at 12.034529502021 "$god_ set-dist 0 16 6"
+$ns_ at 12.034529502021 "$god_ set-dist 0 18 4"
+$ns_ at 12.034529502021 "$god_ set-dist 0 20 5"
+$ns_ at 12.034529502021 "$god_ set-dist 0 21 5"
+$ns_ at 12.034529502021 "$god_ set-dist 1 2 4"
+$ns_ at 12.034529502021 "$god_ set-dist 1 12 1"
+$ns_ at 12.034529502021 "$god_ set-dist 1 13 3"
+$ns_ at 12.034529502021 "$god_ set-dist 1 14 4"
+$ns_ at 12.034529502021 "$god_ set-dist 1 15 4"
+$ns_ at 12.034529502021 "$god_ set-dist 1 17 2"
+$ns_ at 12.034529502021 "$god_ set-dist 1 19 2"
+$ns_ at 12.034529502021 "$god_ set-dist 1 22 3"
+$ns_ at 12.034529502021 "$god_ set-dist 2 4 6"
+$ns_ at 12.034529502021 "$god_ set-dist 2 5 6"
+$ns_ at 12.034529502021 "$god_ set-dist 2 7 5"
+$ns_ at 12.034529502021 "$god_ set-dist 2 8 5"
+$ns_ at 12.034529502021 "$god_ set-dist 2 18 5"
+$ns_ at 12.034529502021 "$god_ set-dist 2 20 6"
+$ns_ at 12.034529502021 "$god_ set-dist 2 21 6"
+$ns_ at 12.034529502021 "$god_ set-dist 3 12 3"
+$ns_ at 12.034529502021 "$god_ set-dist 3 17 4"
+$ns_ at 12.034529502021 "$god_ set-dist 3 22 5"
+$ns_ at 12.034529502021 "$god_ set-dist 4 12 3"
+$ns_ at 12.034529502021 "$god_ set-dist 4 13 5"
+$ns_ at 12.034529502021 "$god_ set-dist 4 14 6"
+$ns_ at 12.034529502021 "$god_ set-dist 4 15 6"
+$ns_ at 12.034529502021 "$god_ set-dist 4 17 4"
+$ns_ at 12.034529502021 "$god_ set-dist 4 19 4"
+$ns_ at 12.034529502021 "$god_ set-dist 4 22 5"
+$ns_ at 12.034529502021 "$god_ set-dist 5 12 3"
+$ns_ at 12.034529502021 "$god_ set-dist 5 13 5"
+$ns_ at 12.034529502021 "$god_ set-dist 5 14 6"
+$ns_ at 12.034529502021 "$god_ set-dist 5 15 6"
+$ns_ at 12.034529502021 "$god_ set-dist 5 17 4"
+$ns_ at 12.034529502021 "$god_ set-dist 5 19 4"
+$ns_ at 12.034529502021 "$god_ set-dist 5 22 5"
+$ns_ at 12.034529502021 "$god_ set-dist 7 12 2"
+$ns_ at 12.034529502021 "$god_ set-dist 7 13 4"
+$ns_ at 12.034529502021 "$god_ set-dist 7 14 5"
+$ns_ at 12.034529502021 "$god_ set-dist 7 15 5"
+$ns_ at 12.034529502021 "$god_ set-dist 7 17 3"
+$ns_ at 12.034529502021 "$god_ set-dist 7 19 3"
+$ns_ at 12.034529502021 "$god_ set-dist 7 22 4"
+$ns_ at 12.034529502021 "$god_ set-dist 8 12 2"
+$ns_ at 12.034529502021 "$god_ set-dist 8 13 4"
+$ns_ at 12.034529502021 "$god_ set-dist 8 14 5"
+$ns_ at 12.034529502021 "$god_ set-dist 8 15 5"
+$ns_ at 12.034529502021 "$god_ set-dist 8 17 3"
+$ns_ at 12.034529502021 "$god_ set-dist 8 19 3"
+$ns_ at 12.034529502021 "$god_ set-dist 8 22 4"
+$ns_ at 12.034529502021 "$god_ set-dist 9 12 2"
+$ns_ at 12.034529502021 "$god_ set-dist 9 17 3"
+$ns_ at 12.034529502021 "$god_ set-dist 9 22 4"
+$ns_ at 12.034529502021 "$god_ set-dist 11 12 3"
+$ns_ at 12.034529502021 "$god_ set-dist 11 17 4"
+$ns_ at 12.034529502021 "$god_ set-dist 11 22 5"
+$ns_ at 12.034529502021 "$god_ set-dist 12 16 4"
+$ns_ at 12.034529502021 "$god_ set-dist 12 18 2"
+$ns_ at 12.034529502021 "$god_ set-dist 12 20 3"
+$ns_ at 12.034529502021 "$god_ set-dist 12 21 3"
+$ns_ at 12.034529502021 "$god_ set-dist 13 18 4"
+$ns_ at 12.034529502021 "$god_ set-dist 13 20 5"
+$ns_ at 12.034529502021 "$god_ set-dist 13 21 5"
+$ns_ at 12.034529502021 "$god_ set-dist 14 18 5"
+$ns_ at 12.034529502021 "$god_ set-dist 14 20 6"
+$ns_ at 12.034529502021 "$god_ set-dist 14 21 6"
+$ns_ at 12.034529502021 "$god_ set-dist 15 18 5"
+$ns_ at 12.034529502021 "$god_ set-dist 15 20 6"
+$ns_ at 12.034529502021 "$god_ set-dist 15 21 6"
+$ns_ at 12.034529502021 "$god_ set-dist 16 17 5"
+$ns_ at 12.034529502021 "$god_ set-dist 16 22 6"
+$ns_ at 12.034529502021 "$god_ set-dist 17 18 3"
+$ns_ at 12.034529502021 "$god_ set-dist 17 20 4"
+$ns_ at 12.034529502021 "$god_ set-dist 17 21 4"
+$ns_ at 12.034529502021 "$god_ set-dist 18 19 3"
+$ns_ at 12.034529502021 "$god_ set-dist 18 22 4"
+$ns_ at 12.034529502021 "$god_ set-dist 19 20 4"
+$ns_ at 12.034529502021 "$god_ set-dist 19 21 4"
+$ns_ at 12.034529502021 "$god_ set-dist 20 22 5"
+$ns_ at 12.034529502021 "$god_ set-dist 21 22 5"
+$ns_ at 14.272747150352 "$god_ set-dist 0 15 6"
+$ns_ at 14.272747150352 "$god_ set-dist 1 15 5"
+$ns_ at 14.272747150352 "$god_ set-dist 3 15 6"
+$ns_ at 14.272747150352 "$god_ set-dist 4 15 7"
+$ns_ at 14.272747150352 "$god_ set-dist 5 15 7"
+$ns_ at 14.272747150352 "$god_ set-dist 6 15 5"
+$ns_ at 14.272747150352 "$god_ set-dist 7 15 6"
+$ns_ at 14.272747150352 "$god_ set-dist 8 15 6"
+$ns_ at 14.272747150352 "$god_ set-dist 9 15 5"
+$ns_ at 14.272747150352 "$god_ set-dist 10 15 5"
+$ns_ at 14.272747150352 "$god_ set-dist 11 15 6"
+$ns_ at 14.272747150352 "$god_ set-dist 12 15 4"
+$ns_ at 14.272747150352 "$god_ set-dist 13 15 2"
+$ns_ at 14.272747150352 "$god_ set-dist 15 16 7"
+$ns_ at 14.272747150352 "$god_ set-dist 15 17 5"
+$ns_ at 14.272747150352 "$god_ set-dist 15 18 6"
+$ns_ at 14.272747150352 "$god_ set-dist 15 19 3"
+$ns_ at 14.272747150352 "$god_ set-dist 15 20 7"
+$ns_ at 14.272747150352 "$god_ set-dist 15 21 7"
+$ns_ at 14.272747150352 "$god_ set-dist 15 22 6"
+$ns_ at 14.272747150352 "$god_ set-dist 15 23 4"
+$ns_ at 14.272747150352 "$god_ set-dist 15 24 5"
+$ns_ at 15.250999200469 "$god_ set-dist 2 16 5"
+$ns_ at 15.250999200469 "$god_ set-dist 6 16 1"
+$ns_ at 15.250999200469 "$god_ set-dist 13 16 4"
+$ns_ at 15.250999200469 "$god_ set-dist 14 16 5"
+$ns_ at 15.250999200469 "$god_ set-dist 15 16 6"
+$ns_ at 15.250999200469 "$god_ set-dist 16 19 3"
+$ns_ at 15.250999200469 "$god_ set-dist 16 23 2"
+$ns_ at 15.567641444492 "$god_ set-dist 16 24 1"
+$ns_ at 15.892902854805 "$god_ set-dist 1 10 3"
+$ns_ at 15.892902854805 "$god_ set-dist 4 10 5"
+$ns_ at 15.892902854805 "$god_ set-dist 5 10 5"
+$ns_ at 15.892902854805 "$god_ set-dist 7 10 4"
+$ns_ at 15.892902854805 "$god_ set-dist 8 10 4"
+$ns_ at 15.892902854805 "$god_ set-dist 9 10 2"
+$ns_ at 15.892902854805 "$god_ set-dist 10 18 4"
+$ns_ at 15.892902854805 "$god_ set-dist 10 20 5"
+$ns_ at 15.892902854805 "$god_ set-dist 10 21 5"
+$ns_ at 16.063148003364 "$god_ set-dist 2 3 4"
+$ns_ at 16.063148003364 "$god_ set-dist 3 13 3"
+$ns_ at 16.063148003364 "$god_ set-dist 3 14 4"
+$ns_ at 16.063148003364 "$god_ set-dist 3 15 5"
+$ns_ at 16.063148003364 "$god_ set-dist 3 19 2"
+$ns_ at 16.063148003364 "$god_ set-dist 3 23 1"
+$ns_ at 16.662811445436 "$god_ set-dist 1 24 2"
+$ns_ at 16.662811445436 "$god_ set-dist 4 24 4"
+$ns_ at 16.662811445436 "$god_ set-dist 5 24 4"
+$ns_ at 16.662811445436 "$god_ set-dist 7 24 3"
+$ns_ at 16.662811445436 "$god_ set-dist 8 24 3"
+$ns_ at 16.662811445436 "$god_ set-dist 9 24 1"
+$ns_ at 16.662811445436 "$god_ set-dist 18 24 3"
+$ns_ at 16.662811445436 "$god_ set-dist 20 24 4"
+$ns_ at 16.662811445436 "$god_ set-dist 21 24 4"
+$ns_ at 16.990422179524 "$god_ set-dist 18 21 1"
+$ns_ at 20.474984616078 "$god_ set-dist 0 1 4"
+$ns_ at 20.474984616078 "$god_ set-dist 0 2 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 3 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 4 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 5 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 6 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 7 5"
+$ns_ at 20.474984616078 "$god_ set-dist 0 8 5"
+$ns_ at 20.474984616078 "$god_ set-dist 0 9 5"
+$ns_ at 20.474984616078 "$god_ set-dist 0 10 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 11 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 12 3"
+$ns_ at 20.474984616078 "$god_ set-dist 0 13 5"
+$ns_ at 20.474984616078 "$god_ set-dist 0 14 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 15 7"
+$ns_ at 20.474984616078 "$god_ set-dist 0 16 7"
+$ns_ at 20.474984616078 "$god_ set-dist 0 17 2"
+$ns_ at 20.474984616078 "$god_ set-dist 0 18 5"
+$ns_ at 20.474984616078 "$god_ set-dist 0 19 4"
+$ns_ at 20.474984616078 "$god_ set-dist 0 20 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 21 6"
+$ns_ at 20.474984616078 "$god_ set-dist 0 23 5"
+$ns_ at 20.474984616078 "$god_ set-dist 0 24 6"
+$ns_ at 20.797096840986 "$god_ set-dist 3 10 2"
+$ns_ at 20.797096840986 "$god_ set-dist 10 11 3"
+$ns_ at 21.005115063257 "$god_ set-dist 0 14 5"
+$ns_ at 21.005115063257 "$god_ set-dist 0 15 6"
+$ns_ at 21.005115063257 "$god_ set-dist 1 14 3"
+$ns_ at 21.005115063257 "$god_ set-dist 1 15 4"
+$ns_ at 21.005115063257 "$god_ set-dist 3 14 3"
+$ns_ at 21.005115063257 "$god_ set-dist 3 15 4"
+$ns_ at 21.005115063257 "$god_ set-dist 4 14 5"
+$ns_ at 21.005115063257 "$god_ set-dist 4 15 6"
+$ns_ at 21.005115063257 "$god_ set-dist 5 14 5"
+$ns_ at 21.005115063257 "$god_ set-dist 5 15 6"
+$ns_ at 21.005115063257 "$god_ set-dist 6 14 3"
+$ns_ at 21.005115063257 "$god_ set-dist 6 15 4"
+$ns_ at 21.005115063257 "$god_ set-dist 7 14 4"
+$ns_ at 21.005115063257 "$god_ set-dist 7 15 5"
+$ns_ at 21.005115063257 "$god_ set-dist 8 14 4"
+$ns_ at 21.005115063257 "$god_ set-dist 8 15 5"
+$ns_ at 21.005115063257 "$god_ set-dist 9 14 3"
+$ns_ at 21.005115063257 "$god_ set-dist 9 15 4"
+$ns_ at 21.005115063257 "$god_ set-dist 10 14 3"
+$ns_ at 21.005115063257 "$god_ set-dist 10 15 4"
+$ns_ at 21.005115063257 "$god_ set-dist 11 14 4"
+$ns_ at 21.005115063257 "$god_ set-dist 11 15 5"
+$ns_ at 21.005115063257 "$god_ set-dist 12 14 2"
+$ns_ at 21.005115063257 "$god_ set-dist 12 15 3"
+$ns_ at 21.005115063257 "$god_ set-dist 14 16 4"
+$ns_ at 21.005115063257 "$god_ set-dist 14 17 3"
+$ns_ at 21.005115063257 "$god_ set-dist 14 18 4"
+$ns_ at 21.005115063257 "$god_ set-dist 14 19 1"
+$ns_ at 21.005115063257 "$god_ set-dist 14 20 5"
+$ns_ at 21.005115063257 "$god_ set-dist 14 21 5"
+$ns_ at 21.005115063257 "$god_ set-dist 14 22 4"
+$ns_ at 21.005115063257 "$god_ set-dist 14 23 2"
+$ns_ at 21.005115063257 "$god_ set-dist 14 24 3"
+$ns_ at 21.005115063257 "$god_ set-dist 15 16 5"
+$ns_ at 21.005115063257 "$god_ set-dist 15 17 4"
+$ns_ at 21.005115063257 "$god_ set-dist 15 18 5"
+$ns_ at 21.005115063257 "$god_ set-dist 15 19 2"
+$ns_ at 21.005115063257 "$god_ set-dist 15 20 6"
+$ns_ at 21.005115063257 "$god_ set-dist 15 21 6"
+$ns_ at 21.005115063257 "$god_ set-dist 15 22 5"
+$ns_ at 21.005115063257 "$god_ set-dist 15 23 3"
+$ns_ at 21.005115063257 "$god_ set-dist 15 24 4"
+$ns_ at 21.567377746916 "$god_ set-dist 0 10 7"
+$ns_ at 21.567377746916 "$god_ set-dist 0 23 6"
+$ns_ at 21.567377746916 "$god_ set-dist 2 3 6"
+$ns_ at 21.567377746916 "$god_ set-dist 2 6 6"
+$ns_ at 21.567377746916 "$god_ set-dist 2 9 5"
+$ns_ at 21.567377746916 "$god_ set-dist 2 10 7"
+$ns_ at 21.567377746916 "$god_ set-dist 2 11 6"
+$ns_ at 21.567377746916 "$god_ set-dist 2 16 7"
+$ns_ at 21.567377746916 "$god_ set-dist 2 23 6"
+$ns_ at 21.567377746916 "$god_ set-dist 2 24 6"
+$ns_ at 21.567377746916 "$god_ set-dist 3 13 5"
+$ns_ at 21.567377746916 "$god_ set-dist 3 14 5"
+$ns_ at 21.567377746916 "$god_ set-dist 3 15 6"
+$ns_ at 21.567377746916 "$god_ set-dist 3 19 4"
+$ns_ at 21.567377746916 "$god_ set-dist 6 13 5"
+$ns_ at 21.567377746916 "$god_ set-dist 6 14 5"
+$ns_ at 21.567377746916 "$god_ set-dist 6 15 6"
+$ns_ at 21.567377746916 "$god_ set-dist 6 19 4"
+$ns_ at 21.567377746916 "$god_ set-dist 9 13 4"
+$ns_ at 21.567377746916 "$god_ set-dist 9 14 4"
+$ns_ at 21.567377746916 "$god_ set-dist 9 15 5"
+$ns_ at 21.567377746916 "$god_ set-dist 9 19 3"
+$ns_ at 21.567377746916 "$god_ set-dist 10 12 4"
+$ns_ at 21.567377746916 "$god_ set-dist 10 13 6"
+$ns_ at 21.567377746916 "$god_ set-dist 10 14 6"
+$ns_ at 21.567377746916 "$god_ set-dist 10 15 7"
+$ns_ at 21.567377746916 "$god_ set-dist 10 17 5"
+$ns_ at 21.567377746916 "$god_ set-dist 10 19 5"
+$ns_ at 21.567377746916 "$god_ set-dist 10 22 6"
+$ns_ at 21.567377746916 "$god_ set-dist 11 13 5"
+$ns_ at 21.567377746916 "$god_ set-dist 11 14 5"
+$ns_ at 21.567377746916 "$god_ set-dist 11 15 6"
+$ns_ at 21.567377746916 "$god_ set-dist 11 19 4"
+$ns_ at 21.567377746916 "$god_ set-dist 12 23 3"
+$ns_ at 21.567377746916 "$god_ set-dist 13 16 6"
+$ns_ at 21.567377746916 "$god_ set-dist 13 23 5"
+$ns_ at 21.567377746916 "$god_ set-dist 13 24 5"
+$ns_ at 21.567377746916 "$god_ set-dist 14 16 6"
+$ns_ at 21.567377746916 "$god_ set-dist 14 23 5"
+$ns_ at 21.567377746916 "$god_ set-dist 14 24 5"
+$ns_ at 21.567377746916 "$god_ set-dist 15 16 7"
+$ns_ at 21.567377746916 "$god_ set-dist 15 23 6"
+$ns_ at 21.567377746916 "$god_ set-dist 15 24 6"
+$ns_ at 21.567377746916 "$god_ set-dist 16 19 5"
+$ns_ at 21.567377746916 "$god_ set-dist 17 23 4"
+$ns_ at 21.567377746916 "$god_ set-dist 19 23 4"
+$ns_ at 21.567377746916 "$god_ set-dist 19 24 4"
+$ns_ at 21.567377746916 "$god_ set-dist 22 23 5"
+$ns_ at 22.296465291771 "$god_ set-dist 0 2 5"
+$ns_ at 22.296465291771 "$god_ set-dist 0 13 4"
+$ns_ at 22.296465291771 "$god_ set-dist 0 14 4"
+$ns_ at 22.296465291771 "$god_ set-dist 0 15 5"
+$ns_ at 22.296465291771 "$god_ set-dist 0 19 3"
+$ns_ at 22.296465291771 "$god_ set-dist 2 17 3"
+$ns_ at 22.296465291771 "$god_ set-dist 2 22 4"
+$ns_ at 22.296465291771 "$god_ set-dist 13 17 2"
+$ns_ at 22.296465291771 "$god_ set-dist 13 22 3"
+$ns_ at 22.296465291771 "$god_ set-dist 14 17 2"
+$ns_ at 22.296465291771 "$god_ set-dist 14 22 3"
+$ns_ at 22.296465291771 "$god_ set-dist 15 17 3"
+$ns_ at 22.296465291771 "$god_ set-dist 15 22 4"
+$ns_ at 22.296465291771 "$god_ set-dist 17 19 1"
+$ns_ at 22.296465291771 "$god_ set-dist 19 22 2"
+$ns_ at 23.182598249868 "$god_ set-dist 0 1 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 2 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 3 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 4 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 5 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 6 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 7 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 8 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 9 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 10 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 11 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 12 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 13 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 14 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 15 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 16 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 17 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 18 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 19 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 20 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 21 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 22 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 23 16777215"
+$ns_ at 23.182598249868 "$god_ set-dist 0 24 16777215"
+$ns_ at 24.006487389917 "$node_(2) setdest 542.994168345557 102.987865494245 0.000000000000"
+$ns_ at 24.340272311995 "$god_ set-dist 1 10 2"
+$ns_ at 24.340272311995 "$god_ set-dist 1 23 1"
+$ns_ at 24.340272311995 "$god_ set-dist 2 10 6"
+$ns_ at 24.340272311995 "$god_ set-dist 2 23 5"
+$ns_ at 24.340272311995 "$god_ set-dist 4 10 4"
+$ns_ at 24.340272311995 "$god_ set-dist 4 23 3"
+$ns_ at 24.340272311995 "$god_ set-dist 5 10 4"
+$ns_ at 24.340272311995 "$god_ set-dist 5 23 3"
+$ns_ at 24.340272311995 "$god_ set-dist 7 10 3"
+$ns_ at 24.340272311995 "$god_ set-dist 7 23 2"
+$ns_ at 24.340272311995 "$god_ set-dist 8 10 3"
+$ns_ at 24.340272311995 "$god_ set-dist 8 23 2"
+$ns_ at 24.340272311995 "$god_ set-dist 10 12 3"
+$ns_ at 24.340272311995 "$god_ set-dist 10 13 5"
+$ns_ at 24.340272311995 "$god_ set-dist 10 14 5"
+$ns_ at 24.340272311995 "$god_ set-dist 10 15 6"
+$ns_ at 24.340272311995 "$god_ set-dist 10 17 4"
+$ns_ at 24.340272311995 "$god_ set-dist 10 18 3"
+$ns_ at 24.340272311995 "$god_ set-dist 10 19 4"
+$ns_ at 24.340272311995 "$god_ set-dist 10 20 4"
+$ns_ at 24.340272311995 "$god_ set-dist 10 21 4"
+$ns_ at 24.340272311995 "$god_ set-dist 10 22 5"
+$ns_ at 24.340272311995 "$god_ set-dist 12 23 2"
+$ns_ at 24.340272311995 "$god_ set-dist 13 23 4"
+$ns_ at 24.340272311995 "$god_ set-dist 14 23 4"
+$ns_ at 24.340272311995 "$god_ set-dist 15 23 5"
+$ns_ at 24.340272311995 "$god_ set-dist 17 23 3"
+$ns_ at 24.340272311995 "$god_ set-dist 18 23 2"
+$ns_ at 24.340272311995 "$god_ set-dist 19 23 3"
+$ns_ at 24.340272311995 "$god_ set-dist 20 23 3"
+$ns_ at 24.340272311995 "$god_ set-dist 21 23 3"
+$ns_ at 24.340272311995 "$god_ set-dist 22 23 4"
+$ns_ at 24.592867825742 "$god_ set-dist 1 2 3"
+$ns_ at 24.592867825742 "$god_ set-dist 2 3 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 4 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 5 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 6 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 7 4"
+$ns_ at 24.592867825742 "$god_ set-dist 2 8 4"
+$ns_ at 24.592867825742 "$god_ set-dist 2 9 4"
+$ns_ at 24.592867825742 "$god_ set-dist 2 10 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 11 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 12 2"
+$ns_ at 24.592867825742 "$god_ set-dist 2 16 6"
+$ns_ at 24.592867825742 "$god_ set-dist 2 17 2"
+$ns_ at 24.592867825742 "$god_ set-dist 2 18 4"
+$ns_ at 24.592867825742 "$god_ set-dist 2 19 1"
+$ns_ at 24.592867825742 "$god_ set-dist 2 20 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 21 5"
+$ns_ at 24.592867825742 "$god_ set-dist 2 22 3"
+$ns_ at 24.592867825742 "$god_ set-dist 2 23 4"
+$ns_ at 24.592867825742 "$god_ set-dist 2 24 5"
+$ns_ at 24.665116557506 "$god_ set-dist 1 7 2"
+$ns_ at 24.665116557506 "$god_ set-dist 2 7 5"
+$ns_ at 24.665116557506 "$god_ set-dist 3 7 4"
+$ns_ at 24.665116557506 "$god_ set-dist 6 7 4"
+$ns_ at 24.665116557506 "$god_ set-dist 7 9 3"
+$ns_ at 24.665116557506 "$god_ set-dist 7 10 4"
+$ns_ at 24.665116557506 "$god_ set-dist 7 11 4"
+$ns_ at 24.665116557506 "$god_ set-dist 7 12 3"
+$ns_ at 24.665116557506 "$god_ set-dist 7 13 5"
+$ns_ at 24.665116557506 "$god_ set-dist 7 14 5"
+$ns_ at 24.665116557506 "$god_ set-dist 7 15 6"
+$ns_ at 24.665116557506 "$god_ set-dist 7 16 5"
+$ns_ at 24.665116557506 "$god_ set-dist 7 17 4"
+$ns_ at 24.665116557506 "$god_ set-dist 7 19 4"
+$ns_ at 24.665116557506 "$god_ set-dist 7 22 5"
+$ns_ at 24.665116557506 "$god_ set-dist 7 23 3"
+$ns_ at 24.665116557506 "$god_ set-dist 7 24 4"
+$ns_ at 27.427901969390 "$god_ set-dist 1 16 2"
+$ns_ at 27.427901969390 "$god_ set-dist 2 16 5"
+$ns_ at 27.427901969390 "$god_ set-dist 4 16 4"
+$ns_ at 27.427901969390 "$god_ set-dist 5 16 4"
+$ns_ at 27.427901969390 "$god_ set-dist 7 16 4"
+$ns_ at 27.427901969390 "$god_ set-dist 8 16 3"
+$ns_ at 27.427901969390 "$god_ set-dist 12 16 3"
+$ns_ at 27.427901969390 "$god_ set-dist 13 16 5"
+$ns_ at 27.427901969390 "$god_ set-dist 14 16 5"
+$ns_ at 27.427901969390 "$god_ set-dist 15 16 6"
+$ns_ at 27.427901969390 "$god_ set-dist 16 17 4"
+$ns_ at 27.427901969390 "$god_ set-dist 16 18 3"
+$ns_ at 27.427901969390 "$god_ set-dist 16 19 4"
+$ns_ at 27.427901969390 "$god_ set-dist 16 20 4"
+$ns_ at 27.427901969390 "$god_ set-dist 16 21 4"
+$ns_ at 27.427901969390 "$god_ set-dist 16 22 5"
+$ns_ at 27.427901969390 "$god_ set-dist 16 23 1"
+$ns_ at 27.541384994644 "$god_ set-dist 10 11 2"
+$ns_ at 27.541384994644 "$god_ set-dist 10 16 1"
+$ns_ at 27.803403365190 "$god_ set-dist 1 3 1"
+$ns_ at 27.803403365190 "$god_ set-dist 2 3 4"
+$ns_ at 27.803403365190 "$god_ set-dist 3 4 3"
+$ns_ at 27.803403365190 "$god_ set-dist 3 5 3"
+$ns_ at 27.803403365190 "$god_ set-dist 3 7 3"
+$ns_ at 27.803403365190 "$god_ set-dist 3 8 2"
+$ns_ at 27.803403365190 "$god_ set-dist 3 12 2"
+$ns_ at 27.803403365190 "$god_ set-dist 3 13 4"
+$ns_ at 27.803403365190 "$god_ set-dist 3 14 4"
+$ns_ at 27.803403365190 "$god_ set-dist 3 15 5"
+$ns_ at 27.803403365190 "$god_ set-dist 3 17 3"
+$ns_ at 27.803403365190 "$god_ set-dist 3 18 2"
+$ns_ at 27.803403365190 "$god_ set-dist 3 19 3"
+$ns_ at 27.803403365190 "$god_ set-dist 3 20 3"
+$ns_ at 27.803403365190 "$god_ set-dist 3 21 3"
+$ns_ at 27.803403365190 "$god_ set-dist 3 22 4"
+$ns_ at 27.927377304128 "$god_ set-dist 1 6 1"
+$ns_ at 27.927377304128 "$god_ set-dist 2 6 4"
+$ns_ at 27.927377304128 "$god_ set-dist 4 6 3"
+$ns_ at 27.927377304128 "$god_ set-dist 5 6 3"
+$ns_ at 27.927377304128 "$god_ set-dist 6 7 3"
+$ns_ at 27.927377304128 "$god_ set-dist 6 8 2"
+$ns_ at 27.927377304128 "$god_ set-dist 6 12 2"
+$ns_ at 27.927377304128 "$god_ set-dist 6 13 4"
+$ns_ at 27.927377304128 "$god_ set-dist 6 14 4"
+$ns_ at 27.927377304128 "$god_ set-dist 6 15 5"
+$ns_ at 27.927377304128 "$god_ set-dist 6 17 3"
+$ns_ at 27.927377304128 "$god_ set-dist 6 18 2"
+$ns_ at 27.927377304128 "$god_ set-dist 6 19 3"
+$ns_ at 27.927377304128 "$god_ set-dist 6 20 3"
+$ns_ at 27.927377304128 "$god_ set-dist 6 21 3"
+$ns_ at 27.927377304128 "$god_ set-dist 6 22 4"
+$ns_ at 29.006487389917 "$node_(2) setdest 648.065428517109 35.657661981702 2.088274706552"
+$ns_ at 30.534082130996 "$god_ set-dist 1 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 2 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 3 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 4 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 5 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 6 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 7 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 8 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 9 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 10 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 11 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 12 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 13 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 14 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 15 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 16 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 17 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 18 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 19 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 20 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 21 22 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 22 23 16777215"
+$ns_ at 30.534082130996 "$god_ set-dist 22 24 16777215"
+$ns_ at 31.023247643499 "$god_ set-dist 1 15 3"
+$ns_ at 31.023247643499 "$god_ set-dist 3 15 4"
+$ns_ at 31.023247643499 "$god_ set-dist 4 15 5"
+$ns_ at 31.023247643499 "$god_ set-dist 5 15 5"
+$ns_ at 31.023247643499 "$god_ set-dist 6 15 4"
+$ns_ at 31.023247643499 "$god_ set-dist 7 15 5"
+$ns_ at 31.023247643499 "$god_ set-dist 8 15 4"
+$ns_ at 31.023247643499 "$god_ set-dist 9 15 4"
+$ns_ at 31.023247643499 "$god_ set-dist 10 15 5"
+$ns_ at 31.023247643499 "$god_ set-dist 11 15 5"
+$ns_ at 31.023247643499 "$god_ set-dist 12 15 2"
+$ns_ at 31.023247643499 "$god_ set-dist 15 16 5"
+$ns_ at 31.023247643499 "$god_ set-dist 15 17 2"
+$ns_ at 31.023247643499 "$god_ set-dist 15 18 4"
+$ns_ at 31.023247643499 "$god_ set-dist 15 19 1"
+$ns_ at 31.023247643499 "$god_ set-dist 15 20 5"
+$ns_ at 31.023247643499 "$god_ set-dist 15 21 5"
+$ns_ at 31.023247643499 "$god_ set-dist 15 23 4"
+$ns_ at 31.023247643499 "$god_ set-dist 15 24 5"
+$ns_ at 33.433913442248 "$god_ set-dist 10 23 2"
+$ns_ at 33.696156517480 "$god_ set-dist 2 13 2"
+$ns_ at 34.241424140094 "$god_ set-dist 2 10 3"
+$ns_ at 34.241424140094 "$god_ set-dist 2 16 4"
+$ns_ at 34.241424140094 "$god_ set-dist 2 24 4"
+$ns_ at 34.241424140094 "$god_ set-dist 3 13 3"
+$ns_ at 34.241424140094 "$god_ set-dist 6 13 2"
+$ns_ at 34.241424140094 "$god_ set-dist 6 14 3"
+$ns_ at 34.241424140094 "$god_ set-dist 9 13 3"
+$ns_ at 34.241424140094 "$god_ set-dist 10 13 1"
+$ns_ at 34.241424140094 "$god_ set-dist 10 14 2"
+$ns_ at 34.241424140094 "$god_ set-dist 10 15 3"
+$ns_ at 34.241424140094 "$god_ set-dist 10 17 3"
+$ns_ at 34.241424140094 "$god_ set-dist 10 19 2"
+$ns_ at 34.241424140094 "$god_ set-dist 11 13 3"
+$ns_ at 34.241424140094 "$god_ set-dist 11 14 4"
+$ns_ at 34.241424140094 "$god_ set-dist 13 16 2"
+$ns_ at 34.241424140094 "$god_ set-dist 13 23 3"
+$ns_ at 34.241424140094 "$god_ set-dist 13 24 2"
+$ns_ at 34.241424140094 "$god_ set-dist 14 16 3"
+$ns_ at 34.241424140094 "$god_ set-dist 14 24 3"
+$ns_ at 34.241424140094 "$god_ set-dist 15 16 4"
+$ns_ at 34.241424140094 "$god_ set-dist 15 24 4"
+$ns_ at 34.241424140094 "$god_ set-dist 16 19 3"
+$ns_ at 34.241424140094 "$god_ set-dist 19 24 3"
+$ns_ at 35.679150746974 "$god_ set-dist 3 16 2"
+$ns_ at 35.693518368617 "$god_ set-dist 1 10 3"
+$ns_ at 35.693518368617 "$god_ set-dist 4 10 5"
+$ns_ at 35.693518368617 "$god_ set-dist 5 10 5"
+$ns_ at 35.693518368617 "$god_ set-dist 6 10 2"
+$ns_ at 35.693518368617 "$god_ set-dist 6 13 3"
+$ns_ at 35.693518368617 "$god_ set-dist 6 14 4"
+$ns_ at 35.693518368617 "$god_ set-dist 7 10 5"
+$ns_ at 35.693518368617 "$god_ set-dist 8 10 4"
+$ns_ at 35.693518368617 "$god_ set-dist 10 18 4"
+$ns_ at 35.693518368617 "$god_ set-dist 10 20 5"
+$ns_ at 35.693518368617 "$god_ set-dist 10 21 5"
+$ns_ at 36.496137364373 "$god_ set-dist 6 16 2"
+$ns_ at 37.040257292006 "$god_ set-dist 1 18 2"
+$ns_ at 37.040257292006 "$god_ set-dist 2 18 5"
+$ns_ at 37.040257292006 "$god_ set-dist 3 18 3"
+$ns_ at 37.040257292006 "$god_ set-dist 6 18 3"
+$ns_ at 37.040257292006 "$god_ set-dist 9 18 3"
+$ns_ at 37.040257292006 "$god_ set-dist 10 18 5"
+$ns_ at 37.040257292006 "$god_ set-dist 11 18 4"
+$ns_ at 37.040257292006 "$god_ set-dist 12 18 3"
+$ns_ at 37.040257292006 "$god_ set-dist 13 18 5"
+$ns_ at 37.040257292006 "$god_ set-dist 14 18 5"
+$ns_ at 37.040257292006 "$god_ set-dist 15 18 5"
+$ns_ at 37.040257292006 "$god_ set-dist 16 18 4"
+$ns_ at 37.040257292006 "$god_ set-dist 17 18 4"
+$ns_ at 37.040257292006 "$god_ set-dist 18 19 4"
+$ns_ at 37.040257292006 "$god_ set-dist 18 23 3"
+$ns_ at 37.040257292006 "$god_ set-dist 18 24 4"
+$ns_ at 37.229709596472 "$god_ set-dist 3 11 2"
+$ns_ at 37.468506255818 "$node_(19) setdest 482.851832838784 290.754949794056 0.000000000000"
+$ns_ at 37.892657149958 "$god_ set-dist 10 11 3"
+$ns_ at 37.892657149958 "$god_ set-dist 11 13 4"
+$ns_ at 37.892657149958 "$god_ set-dist 11 14 5"
+$ns_ at 37.892657149958 "$god_ set-dist 11 16 3"
+$ns_ at 38.635314945665 "$god_ set-dist 1 17 1"
+$ns_ at 38.635314945665 "$god_ set-dist 3 17 2"
+$ns_ at 38.635314945665 "$god_ set-dist 4 17 3"
+$ns_ at 38.635314945665 "$god_ set-dist 5 17 3"
+$ns_ at 38.635314945665 "$god_ set-dist 6 17 2"
+$ns_ at 38.635314945665 "$god_ set-dist 7 17 3"
+$ns_ at 38.635314945665 "$god_ set-dist 8 17 2"
+$ns_ at 38.635314945665 "$god_ set-dist 9 17 2"
+$ns_ at 38.635314945665 "$god_ set-dist 11 17 3"
+$ns_ at 38.635314945665 "$god_ set-dist 16 17 3"
+$ns_ at 38.635314945665 "$god_ set-dist 17 18 3"
+$ns_ at 38.635314945665 "$god_ set-dist 17 20 3"
+$ns_ at 38.635314945665 "$god_ set-dist 17 21 3"
+$ns_ at 38.635314945665 "$god_ set-dist 17 23 2"
+$ns_ at 38.635314945665 "$god_ set-dist 17 24 3"
+$ns_ at 39.314865106145 "$node_(23) setdest 417.009583380884 680.068252423303 0.000000000000"
+$ns_ at 40.798688789698 "$god_ set-dist 1 16 3"
+$ns_ at 40.798688789698 "$god_ set-dist 4 16 5"
+$ns_ at 40.798688789698 "$god_ set-dist 5 16 5"
+$ns_ at 40.798688789698 "$god_ set-dist 7 16 5"
+$ns_ at 40.798688789698 "$god_ set-dist 8 16 4"
+$ns_ at 40.798688789698 "$god_ set-dist 12 16 4"
+$ns_ at 40.798688789698 "$god_ set-dist 16 17 4"
+$ns_ at 40.798688789698 "$god_ set-dist 16 18 5"
+$ns_ at 40.798688789698 "$god_ set-dist 16 20 5"
+$ns_ at 40.798688789698 "$god_ set-dist 16 21 5"
+$ns_ at 40.798688789698 "$god_ set-dist 16 23 2"
+$ns_ at 42.102398320616 "$god_ set-dist 1 22 3"
+$ns_ at 42.102398320616 "$god_ set-dist 2 22 6"
+$ns_ at 42.102398320616 "$god_ set-dist 3 22 4"
+$ns_ at 42.102398320616 "$god_ set-dist 4 22 2"
+$ns_ at 42.102398320616 "$god_ set-dist 5 22 2"
+$ns_ at 42.102398320616 "$god_ set-dist 6 22 4"
+$ns_ at 42.102398320616 "$god_ set-dist 7 22 2"
+$ns_ at 42.102398320616 "$god_ set-dist 8 22 2"
+$ns_ at 42.102398320616 "$god_ set-dist 9 22 4"
+$ns_ at 42.102398320616 "$god_ set-dist 10 22 6"
+$ns_ at 42.102398320616 "$god_ set-dist 11 22 5"
+$ns_ at 42.102398320616 "$god_ set-dist 12 22 4"
+$ns_ at 42.102398320616 "$god_ set-dist 13 22 6"
+$ns_ at 42.102398320616 "$god_ set-dist 14 22 6"
+$ns_ at 42.102398320616 "$god_ set-dist 15 22 6"
+$ns_ at 42.102398320616 "$god_ set-dist 16 22 6"
+$ns_ at 42.102398320616 "$god_ set-dist 17 22 4"
+$ns_ at 42.102398320616 "$god_ set-dist 18 22 2"
+$ns_ at 42.102398320616 "$god_ set-dist 19 22 5"
+$ns_ at 42.102398320616 "$god_ set-dist 20 22 1"
+$ns_ at 42.102398320616 "$god_ set-dist 21 22 2"
+$ns_ at 42.102398320616 "$god_ set-dist 22 23 4"
+$ns_ at 42.102398320616 "$god_ set-dist 22 24 5"
+$ns_ at 42.468506255818 "$node_(19) setdest 947.570695001706 820.671734273269 0.208870612171"
+$ns_ at 42.618777341541 "$god_ set-dist 1 15 2"
+$ns_ at 42.618777341541 "$god_ set-dist 3 15 3"
+$ns_ at 42.618777341541 "$god_ set-dist 4 15 4"
+$ns_ at 42.618777341541 "$god_ set-dist 5 15 4"
+$ns_ at 42.618777341541 "$god_ set-dist 6 15 3"
+$ns_ at 42.618777341541 "$god_ set-dist 7 15 4"
+$ns_ at 42.618777341541 "$god_ set-dist 8 15 3"
+$ns_ at 42.618777341541 "$god_ set-dist 9 15 3"
+$ns_ at 42.618777341541 "$god_ set-dist 11 15 4"
+$ns_ at 42.618777341541 "$god_ set-dist 15 17 1"
+$ns_ at 42.618777341541 "$god_ set-dist 15 18 4"
+$ns_ at 42.618777341541 "$god_ set-dist 15 20 4"
+$ns_ at 42.618777341541 "$god_ set-dist 15 21 4"
+$ns_ at 42.618777341541 "$god_ set-dist 15 22 5"
+$ns_ at 42.618777341541 "$god_ set-dist 15 23 3"
+$ns_ at 44.314865106145 "$node_(23) setdest 498.339849264292 597.847027019634 0.104885545603"
+$ns_ at 44.608613171928 "$god_ set-dist 3 4 2"
+$ns_ at 44.608613171928 "$god_ set-dist 3 5 2"
+$ns_ at 44.608613171928 "$god_ set-dist 3 7 2"
+$ns_ at 44.608613171928 "$god_ set-dist 3 8 1"
+$ns_ at 44.608613171928 "$god_ set-dist 3 18 2"
+$ns_ at 44.608613171928 "$god_ set-dist 3 20 2"
+$ns_ at 44.608613171928 "$god_ set-dist 3 21 2"
+$ns_ at 44.608613171928 "$god_ set-dist 3 22 3"
+$ns_ at 44.608613171928 "$god_ set-dist 4 10 4"
+$ns_ at 44.608613171928 "$god_ set-dist 4 16 4"
+$ns_ at 44.608613171928 "$god_ set-dist 4 24 3"
+$ns_ at 44.608613171928 "$god_ set-dist 5 10 4"
+$ns_ at 44.608613171928 "$god_ set-dist 5 16 4"
+$ns_ at 44.608613171928 "$god_ set-dist 5 24 3"
+$ns_ at 44.608613171928 "$god_ set-dist 7 10 4"
+$ns_ at 44.608613171928 "$god_ set-dist 7 16 4"
+$ns_ at 44.608613171928 "$god_ set-dist 7 24 3"
+$ns_ at 44.608613171928 "$god_ set-dist 8 10 3"
+$ns_ at 44.608613171928 "$god_ set-dist 8 16 3"
+$ns_ at 44.608613171928 "$god_ set-dist 8 24 2"
+$ns_ at 44.608613171928 "$god_ set-dist 10 18 4"
+$ns_ at 44.608613171928 "$god_ set-dist 10 20 4"
+$ns_ at 44.608613171928 "$god_ set-dist 10 21 4"
+$ns_ at 44.608613171928 "$god_ set-dist 10 22 5"
+$ns_ at 44.608613171928 "$god_ set-dist 16 18 4"
+$ns_ at 44.608613171928 "$god_ set-dist 16 20 4"
+$ns_ at 44.608613171928 "$god_ set-dist 16 21 4"
+$ns_ at 44.608613171928 "$god_ set-dist 16 22 5"
+$ns_ at 44.608613171928 "$god_ set-dist 18 24 3"
+$ns_ at 44.608613171928 "$god_ set-dist 20 24 3"
+$ns_ at 44.608613171928 "$god_ set-dist 21 24 3"
+$ns_ at 44.608613171928 "$god_ set-dist 22 24 4"
+$ns_ at 44.763725780392 "$god_ set-dist 1 4 3"
+$ns_ at 44.763725780392 "$god_ set-dist 2 4 6"
+$ns_ at 44.763725780392 "$god_ set-dist 3 4 3"
+$ns_ at 44.763725780392 "$god_ set-dist 4 6 4"
+$ns_ at 44.763725780392 "$god_ set-dist 4 8 2"
+$ns_ at 44.763725780392 "$god_ set-dist 4 9 4"
+$ns_ at 44.763725780392 "$god_ set-dist 4 10 5"
+$ns_ at 44.763725780392 "$god_ set-dist 4 11 5"
+$ns_ at 44.763725780392 "$god_ set-dist 4 12 4"
+$ns_ at 44.763725780392 "$god_ set-dist 4 13 6"
+$ns_ at 44.763725780392 "$god_ set-dist 4 14 6"
+$ns_ at 44.763725780392 "$god_ set-dist 4 15 5"
+$ns_ at 44.763725780392 "$god_ set-dist 4 16 5"
+$ns_ at 44.763725780392 "$god_ set-dist 4 17 4"
+$ns_ at 44.763725780392 "$god_ set-dist 4 19 5"
+$ns_ at 44.763725780392 "$god_ set-dist 4 23 4"
+$ns_ at 44.763725780392 "$god_ set-dist 4 24 4"
+$ns_ at 45.008839161607 "$god_ set-dist 2 24 3"
+$ns_ at 45.008839161607 "$god_ set-dist 3 13 2"
+$ns_ at 45.008839161607 "$god_ set-dist 3 14 3"
+$ns_ at 45.008839161607 "$god_ set-dist 4 13 5"
+$ns_ at 45.008839161607 "$god_ set-dist 5 13 4"
+$ns_ at 45.008839161607 "$god_ set-dist 6 13 2"
+$ns_ at 45.008839161607 "$god_ set-dist 6 14 3"
+$ns_ at 45.008839161607 "$god_ set-dist 7 13 4"
+$ns_ at 45.008839161607 "$god_ set-dist 8 13 3"
+$ns_ at 45.008839161607 "$god_ set-dist 9 13 2"
+$ns_ at 45.008839161607 "$god_ set-dist 9 14 3"
+$ns_ at 45.008839161607 "$god_ set-dist 11 13 3"
+$ns_ at 45.008839161607 "$god_ set-dist 11 14 4"
+$ns_ at 45.008839161607 "$god_ set-dist 13 18 4"
+$ns_ at 45.008839161607 "$god_ set-dist 13 20 4"
+$ns_ at 45.008839161607 "$god_ set-dist 13 21 4"
+$ns_ at 45.008839161607 "$god_ set-dist 13 22 5"
+$ns_ at 45.008839161607 "$god_ set-dist 13 23 2"
+$ns_ at 45.008839161607 "$god_ set-dist 13 24 1"
+$ns_ at 45.008839161607 "$god_ set-dist 14 23 3"
+$ns_ at 45.008839161607 "$god_ set-dist 14 24 2"
+$ns_ at 45.008839161607 "$god_ set-dist 15 24 3"
+$ns_ at 45.008839161607 "$god_ set-dist 19 24 2"
+$ns_ at 47.563955310197 "$god_ set-dist 3 4 2"
+$ns_ at 47.563955310197 "$god_ set-dist 3 18 1"
+$ns_ at 47.563955310197 "$god_ set-dist 4 6 3"
+$ns_ at 47.563955310197 "$god_ set-dist 4 9 3"
+$ns_ at 47.563955310197 "$god_ set-dist 4 10 4"
+$ns_ at 47.563955310197 "$god_ set-dist 4 11 4"
+$ns_ at 47.563955310197 "$god_ set-dist 4 13 4"
+$ns_ at 47.563955310197 "$god_ set-dist 4 14 5"
+$ns_ at 47.563955310197 "$god_ set-dist 4 16 4"
+$ns_ at 47.563955310197 "$god_ set-dist 4 23 3"
+$ns_ at 47.563955310197 "$god_ set-dist 4 24 3"
+$ns_ at 47.563955310197 "$god_ set-dist 6 18 2"
+$ns_ at 47.563955310197 "$god_ set-dist 9 18 2"
+$ns_ at 47.563955310197 "$god_ set-dist 10 18 3"
+$ns_ at 47.563955310197 "$god_ set-dist 11 18 3"
+$ns_ at 47.563955310197 "$god_ set-dist 13 18 3"
+$ns_ at 47.563955310197 "$god_ set-dist 14 18 4"
+$ns_ at 47.563955310197 "$god_ set-dist 16 18 3"
+$ns_ at 47.563955310197 "$god_ set-dist 18 23 2"
+$ns_ at 47.563955310197 "$god_ set-dist 18 24 2"
+$ns_ at 48.909051408918 "$god_ set-dist 1 5 3"
+$ns_ at 48.909051408918 "$god_ set-dist 1 7 3"
+$ns_ at 48.909051408918 "$god_ set-dist 1 8 2"
+$ns_ at 48.909051408918 "$god_ set-dist 1 20 3"
+$ns_ at 48.909051408918 "$god_ set-dist 1 21 3"
+$ns_ at 48.909051408918 "$god_ set-dist 1 22 4"
+$ns_ at 48.909051408918 "$god_ set-dist 2 5 6"
+$ns_ at 48.909051408918 "$god_ set-dist 2 7 6"
+$ns_ at 48.909051408918 "$god_ set-dist 2 8 5"
+$ns_ at 48.909051408918 "$god_ set-dist 2 20 6"
+$ns_ at 48.909051408918 "$god_ set-dist 2 21 6"
+$ns_ at 48.909051408918 "$god_ set-dist 2 22 7"
+$ns_ at 48.909051408918 "$god_ set-dist 5 12 4"
+$ns_ at 48.909051408918 "$god_ set-dist 5 15 5"
+$ns_ at 48.909051408918 "$god_ set-dist 5 17 4"
+$ns_ at 48.909051408918 "$god_ set-dist 5 19 5"
+$ns_ at 48.909051408918 "$god_ set-dist 7 12 4"
+$ns_ at 48.909051408918 "$god_ set-dist 7 15 5"
+$ns_ at 48.909051408918 "$god_ set-dist 7 17 4"
+$ns_ at 48.909051408918 "$god_ set-dist 7 19 5"
+$ns_ at 48.909051408918 "$god_ set-dist 8 12 3"
+$ns_ at 48.909051408918 "$god_ set-dist 8 15 4"
+$ns_ at 48.909051408918 "$god_ set-dist 8 17 3"
+$ns_ at 48.909051408918 "$god_ set-dist 8 19 4"
+$ns_ at 48.909051408918 "$god_ set-dist 12 20 4"
+$ns_ at 48.909051408918 "$god_ set-dist 12 21 4"
+$ns_ at 48.909051408918 "$god_ set-dist 12 22 5"
+$ns_ at 48.909051408918 "$god_ set-dist 15 20 5"
+$ns_ at 48.909051408918 "$god_ set-dist 15 21 5"
+$ns_ at 48.909051408918 "$god_ set-dist 15 22 6"
+$ns_ at 48.909051408918 "$god_ set-dist 17 20 4"
+$ns_ at 48.909051408918 "$god_ set-dist 17 21 4"
+$ns_ at 48.909051408918 "$god_ set-dist 17 22 5"
+$ns_ at 48.909051408918 "$god_ set-dist 19 20 5"
+$ns_ at 48.909051408918 "$god_ set-dist 19 21 5"
+$ns_ at 48.909051408918 "$god_ set-dist 19 22 6"
+$ns_ at 48.971315230317 "$god_ set-dist 5 6 2"
+$ns_ at 48.971315230317 "$god_ set-dist 6 7 2"
+$ns_ at 48.971315230317 "$god_ set-dist 6 8 1"
+$ns_ at 48.971315230317 "$god_ set-dist 6 20 2"
+$ns_ at 48.971315230317 "$god_ set-dist 6 21 2"
+$ns_ at 48.971315230317 "$god_ set-dist 6 22 3"
+$ns_ at 49.422083564986 "$god_ set-dist 1 2 2"
+$ns_ at 49.422083564986 "$god_ set-dist 1 13 2"
+$ns_ at 49.422083564986 "$god_ set-dist 1 14 2"
+$ns_ at 49.422083564986 "$god_ set-dist 1 19 1"
+$ns_ at 49.422083564986 "$god_ set-dist 2 3 3"
+$ns_ at 49.422083564986 "$god_ set-dist 2 4 5"
+$ns_ at 49.422083564986 "$god_ set-dist 2 5 5"
+$ns_ at 49.422083564986 "$god_ set-dist 2 6 3"
+$ns_ at 49.422083564986 "$god_ set-dist 2 7 5"
+$ns_ at 49.422083564986 "$god_ set-dist 2 8 4"
+$ns_ at 49.422083564986 "$god_ set-dist 2 9 3"
+$ns_ at 49.422083564986 "$god_ set-dist 2 11 4"
+$ns_ at 49.422083564986 "$god_ set-dist 2 18 4"
+$ns_ at 49.422083564986 "$god_ set-dist 2 20 5"
+$ns_ at 49.422083564986 "$god_ set-dist 2 21 5"
+$ns_ at 49.422083564986 "$god_ set-dist 2 22 6"
+$ns_ at 49.422083564986 "$god_ set-dist 2 23 3"
+$ns_ at 49.422083564986 "$god_ set-dist 3 19 2"
+$ns_ at 49.422083564986 "$god_ set-dist 4 19 4"
+$ns_ at 49.422083564986 "$god_ set-dist 5 19 4"
+$ns_ at 49.422083564986 "$god_ set-dist 6 19 2"
+$ns_ at 49.422083564986 "$god_ set-dist 7 19 4"
+$ns_ at 49.422083564986 "$god_ set-dist 8 19 3"
+$ns_ at 49.422083564986 "$god_ set-dist 9 19 2"
+$ns_ at 49.422083564986 "$god_ set-dist 11 19 3"
+$ns_ at 49.422083564986 "$god_ set-dist 18 19 3"
+$ns_ at 49.422083564986 "$god_ set-dist 19 20 4"
+$ns_ at 49.422083564986 "$god_ set-dist 19 21 4"
+$ns_ at 49.422083564986 "$god_ set-dist 19 22 5"
+$ns_ at 49.422083564986 "$god_ set-dist 19 23 2"
+#
+# Destination Unreachables: 185
+#
+# Route Changes: 1003
+#
+# Link Changes: 49
+#
+# Node | Route Changes | Link Changes
+#    0 |           101 |            2
+#    1 |            61 |            9
+#    2 |           109 |            2
+#    3 |            70 |            7
+#    4 |            83 |            2
+#    5 |            62 |            0
+#    6 |            70 |            6
+#    7 |            79 |            1
+#    8 |            63 |            4
+#    9 |            51 |            5
+#   10 |            84 |            6
+#   11 |            64 |            3
+#   12 |            55 |            2
+#   13 |            93 |            5
+#   14 |           101 |            1
+#   15 |           151 |            3
+#   16 |            84 |            8
+#   17 |            92 |            6
+#   18 |            83 |            4
+#   19 |            79 |            7
+#   20 |            62 |            1
+#   21 |            63 |            1
+#   22 |           123 |            3
+#   23 |            68 |            7
+#   24 |            55 |            3
+#

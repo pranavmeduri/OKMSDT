@@ -1,0 +1,141 @@
+proc setupUDP {i src dst stime etime} {
+global ns_ null rate psize
+	set udp($i) [new Agent/UDP]
+	$ns_ attach-agent $src $udp($i)
+	set null($i) [new Agent/Null]
+	$ns_ attach-agent $dst $null($i)
+	set cbr($i) [new Application/Traffic/CBR]
+	$cbr($i) set packetSize_ $psize
+	$udp($i) set rate_ $rate
+	$cbr($i) set rate_ $rate
+	$cbr($i) attach-agent $udp($i)
+	$ns_ connect $udp($i) $null($i)
+	$ns_ at $stime "$cbr($i) start"
+	$ns_ at $etime "$cbr($i) stop"
+	return $null($i)
+}
+
+for {set i 0} {$i < $val(nn)} {incr i} { 
+$node_($i) color Gray
+$ns_ at 0.0 "$node_($i) color Gray"
+}
+$ns_ at 0.0 "$ns_ trace-annotate \"All the nodes are in sleep state\""
+array set num { a 63 b 55 c 79 d 87 e 105 f 54 }
+foreach n [array names num] {
+$ns_ at 1.0 "$node_($num($n)) add-mark m1 orange hexagon"
+$ns_ at 1.0 "$node_($num($n)) label CH"
+}
+$ns_ at 1.0 "$ns_ trace-annotate \"Nodes are clustered using FCM\""
+
+######################################################Connection1
+set a0 [setupUDP 1 $node_(13) $node_(43) 1.0 10.0 ]
+
+$ns_ at 1.0 "$ns_ trace-annotate \"EBFO selects exact nodes for transmission\""
+$ns_ at 1.0 "$ns_ trace-annotate \"Active nodes are authenticated using ECDH\""
+array set num1 { a 13 b 87 c 43 }
+foreach n [array names num1] {
+$node_($num1($n)) color BlueViolet
+$ns_ at 1.0 "$node_($num1($n)) color BlueViolet"
+$ns_ at 10.01 "$node_($num1($n)) color Gray"
+}
+
+$ns_ at 1.0 "$node_(13) add-mark m1 OrangeRed circle"
+$ns_ at 1.0 "$node_(13) label SRC"
+$ns_ at 1.0 "$node_(43) add-mark m1 OrangeRed circle"
+$ns_ at 1.0 "$node_(43) label DST"
+$ns_ at 10.01 "$node_(13) label \" \""
+$ns_ at 10.01 "$node_(13) delete-mark m1"
+$ns_ at 10.01 "$node_(43) label \" \""
+$ns_ at 10.01 "$node_(43) delete-mark m1"
+$ns_ at 6.5467 "$node_(107) color BlueViolet"
+$ns_ at 6.5467 "$node_(89) color BlueViolet"
+$ns_ at 6.5467 "$node_(89) add-mark m1 Orange hexagon"
+$ns_ at 6.5467 "$node_(89) label CH"
+$ns_ at 6.5467 "$node_(87) color Gray"
+$ns_ at 6.5467 "$node_(87) label \" \""
+$ns_ at 6.5467 "$node_(87) delete-mark m1"
+$ns_ at 9.0876 "$node_(7) color BlueViolet"
+$ns_ at 9.0876 "$node_(67) color BlueViolet"
+$ns_ at 9.0876 "$node_(67) add-mark m1 Orange hexagon"
+$ns_ at 9.0876 "$node_(67) label CH"
+$ns_ at 9.0876 "$node_(107) color Gray"
+$ns_ at 9.0876 "$node_(89) color Gray"
+$ns_ at 9.0876 "$node_(89) label \" \""
+$ns_ at 9.0876 "$node_(89) delete-mark m1"
+$ns_ at 10.01 "$node_(7) color Gray"
+$ns_ at 10.01 "$node_(67) color Gray"
+
+######################################################Connection2
+set a1 [setupUDP 2 $node_(11) $node_(39) 13.0 22.0 ]
+
+array set num2 { a 11 b 91 c 39 }
+foreach n [array names num2] {
+$node_($num2($n)) color BlueViolet
+$ns_ at 13.0 "$node_($num2($n)) color BlueViolet"
+$ns_ at 22.01 "$node_($num2($n)) color Gray"
+}
+
+$ns_ at 13.0 "$node_(11) add-mark m1 OrangeRed circle"
+$ns_ at 13.0 "$node_(11) label SRC"
+$ns_ at 13.0 "$node_(39) add-mark m1 OrangeRed circle"
+$ns_ at 13.0 "$node_(39) label DST"
+$ns_ at 22.01 "$node_(11) label \" \""
+$ns_ at 22.01 "$node_(11) delete-mark m1"
+$ns_ at 22.01 "$node_(39) label \" \""
+$ns_ at 22.01 "$node_(39) delete-mark m1"
+$ns_ at 12.01 "$node_(79) label \" \""
+$ns_ at 12.01 "$node_(79) delete-mark m1"
+$ns_ at 12.01 "$node_(91) add-mark m1 orange hexagon"
+$ns_ at 12.01 "$node_(91) label CH"
+
+######################################################Connection3
+set a2 [setupUDP 2 $node_(2) $node_(16) 25.0 35.0 ]
+
+array set num3 { a 2 b 32 c 114 d 42 e 16 }
+foreach n [array names num3] {
+$node_($num3($n)) color BlueViolet
+$ns_ at 25.0 "$node_($num3($n)) color BlueViolet"
+$ns_ at 35.01 "$node_($num3($n)) color Gray"
+}
+
+$ns_ at 25.0 "$node_(2) add-mark m1 OrangeRed circle"
+$ns_ at 25.0 "$node_(2) label SRC"
+$ns_ at 25.0 "$node_(16) add-mark m1 OrangeRed circle"
+$ns_ at 25.0 "$node_(16) label DST"
+$ns_ at 35.01 "$node_(2) label \" \""
+$ns_ at 35.01 "$node_(2) delete-mark m1"
+$ns_ at 35.01 "$node_(16) label \" \""
+$ns_ at 35.01 "$node_(16) delete-mark m1"
+
+$ns_ at 33.92 "$node_(114) label \" \""
+$ns_ at 33.92 "$node_(114) delete-mark m1"
+$ns_ at 33.92 "$node_(104) add-mark m1 orange hexagon"
+$ns_ at 33.92 "$node_(104) label CH"
+$ns_ at 33.92 "$node_(102) color BlueViolet"
+$ns_ at 33.92 "$node_(104) color BlueViolet"
+$ns_ at 33.92 "$node_(24) color BlueViolet"
+$ns_ at 33.92 "$node_(32) color Gray"
+$ns_ at 33.92 "$node_(114) color Gray"
+$ns_ at 33.92 "$node_(42) color Gray"
+
+$ns_ at 33.92 "$node_(104) label \" \""
+$ns_ at 33.92 "$node_(104) delete-mark m1"
+$ns_ at 33.92 "$node_(32) add-mark m1 orange hexagon"
+$ns_ at 33.92 "$node_(32) label CH"
+$ns_ at 34.25 "$node_(32) color BlueViolet"
+$ns_ at 34.25 "$node_(27) color BlueViolet"
+$ns_ at 34.25 "$node_(99) color BlueViolet"
+$ns_ at 34.25 "$node_(102) color Gray"
+$ns_ at 34.25 "$node_(104) color Gray"
+$ns_ at 34.25 "$node_(24) color Gray"
+$ns_ at 35.01 "$node_(27) color Gray"
+$ns_ at 35.01 "$node_(99) color Gray"
+$ns_ at 22.01 "$node_(105) label \" \""
+$ns_ at 22.01 "$node_(105) delete-mark m1"
+$ns_ at 22.01 "$node_(114) add-mark m1 orange hexagon"
+$ns_ at 22.01 "$node_(114) label CH"
+$ns_ at 22.01 "$node_(91) label \" \""
+$ns_ at 22.01 "$node_(91) delete-mark m1"
+$ns_ at 22.01 "$node_(6) add-mark m1 orange hexagon"
+$ns_ at 22.01 "$node_(6) label CH"
+

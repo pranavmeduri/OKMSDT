@@ -1,0 +1,6 @@
+cat out.tr | grep "^s" | grep "AGT" | cut -f2,2 -d" " >  sent
+cat out.tr | grep "^r" | grep "AGT" | cut -f2,2 -d" " > rec
+cat out.tr | grep "^s" | grep "RTR" | grep "cbr" | cut -f2,2 -d" " >  ctrsend
+cat out.tr | grep "^D" | cut -f2,2 -d" " > drop
+cat out.tr | grep "energy" | cut -f15,15  -d" " > energy.tr
+
